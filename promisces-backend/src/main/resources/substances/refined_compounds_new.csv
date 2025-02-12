@@ -1,0 +1,1017 @@
+Full Name;CAS No (Neutral form);EC No.;Promisces ID;Canonical SMILES;Norman SusDat ID;UBA List (Priority Group);Priority Group definition;P_t1/2_UBA_W (days);Biodeg. Half-Life experimental (days) - DashBoard;P_t1/2_UBA_S (days);P_t1/2_UBA_Sed (days);M_logKoc_UBA;M-score_Episuite Kow model;Half-life in freshwater_predicted_(Biowin3, RIVM db);CLP harmonised;P-score experimental, freshwater, UBA;P-score experimental, freshwater, Dashboard;P-score experimental, soil;P-score experimental, sediment;M-score experimental;M-score predicted, Episuite;P-score predicted, freshwater, Episuite;T-score experimental, CLP;P-score experimental, freshwater, average;Reach tonnage band min;Reach tonnage band max;1. High release to environment_based on Schulze 2018;2. Wide dispersive use_based on Schulze 2018;3. Intermediate use_based on Schulze 2018;4. Closed system use_based on Schulze 2018;5. Professional use_based on Schulze 2018;6. Consumer use_based on Schulze 2018;7. Substance in article_based on Schulze 2018;average tonnage band;E-score REACH, average;Other emission sources;T-score predicted
+(1S,4R,4aS,9aR)-4,4a,9,9a-tetrahydro-1H-1,4-methanofluorene;-;700-736-9;PRO-001;c1(NP(=O)(N)N)c(N(=O)=O)cccc1;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;10;1000;3;1;3;3;0,5;0,5;0;505;0,284600035;;-
+(1S,4R,6R)-1-[(3E)-5-hydroxy-3-methylpent-3-en-1-yn-1-yl]-2,2,6-trimethylcyclohexane-1,4-diol;70905-68-9;700-054-1;PRO-002;CC1(C)C[C@H](O)C[C@@H](C)[C@@]1(O)C#C/C(=C/CO)/C;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;35;;;;;;;-;0,284668525;;;;;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+(2-allyloxy-1,1-dimethyl-2-oxo-ethyl) 2-chloro-5-[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2H)-pyrimidin-1-yl]benzoate;134605-64-4;603-837-5;PRO-003;CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl;NS00006629;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;65;;266;;1,5;;;-;0,534155203;;0,92728557;;0,585786438;;;0,1;;10;100;7;1;3;1;0,5;0,5;0;55;0,251188537;;-
+(2?,3?,5?,16?,17?)-17-Acetoxy-3-hydroxy-2-(4-morpholinyl)-16-(1-pyrrolidinyl)androstane;119302-24-8;601-596-0;PRO-004;CC(=O)OC1C(CC2C3CCC4CC(O)C(CC4(C)C3CCC12C)N1CCOCC1)N1CCCC1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;637;;;;;;;-;0,982682906;;;;;;;0,1;;0;10;3;4;0;1;0,5;0,5;0;5;0,110141021;;-
+(5-hydroxy-1,3-dimethyl-1H-pyrazol-4-yl)[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone;365400-11-9;609-256-3;PRO-005;CC1=C(C(=O)N(N1)C)C(=O)C2=C(C=C(C=C2)C(F)(F)F)S(=O)(=O)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;327;;120;578;1,3;;;-;0,94778085;;0,765835392;0,880202056;0,618975739;;;0,1;;10;100;7;4;3;3;0,5;0,5;0;55;0,347799513;;-
+[(2R)-2-(2,4-dichlorophenyl)-2-[(1H-1,2,4-triazol-1-yl)methyl]-1,3-dioxolan-4-yl]methyl methanesulfonate hydrochloride;155661-07-7;445-550-6;PRO-006;CS(=O)(=O)OCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl.Cl;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1028;;;;2,5;;;-;0,992284402;;;;0,414213562;;;0,1;;10;100;3;4;3;1;0,5;0,5;0;55;0,231866342;;-
+[(3aS,4S,6S)-6-methoxy-2,2-dimethyl-tetrahydro-2H-furo[3,4-d][1,3]dioxol-4-yl]methyl 4-methylbenzene-1-sulfonate;4137-56-8;609-920-2;PRO-007;CC1(C)OC2[C@@H](O1)[C@@H](O[C@@H]2OC)COS(=O)(=O)c1ccc(C)cc1;NS00003867;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1488;;;;;;;-;0,99588492;;;;;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+[(3S,4R,4aR,6S,6aS,12R,12aS,12bS)-3-(cyclopropanecarbonyloxy)-6,12-dihydroxy-4,6a,12btrimethyl-11-oxo-9-(pyridin-3-yl)-1,2,3,4,4a,5,6,6a,12a,12b-decahydro-11H,12Hbenzo[f]pyrano[4,3-b]chromen-4-yl]methylcyclopropanecarboxylate;915972-17-7;815-966-6;PRO-008;CC12CCC(C(C1CC(C3(C2C(C4=C(O3)C=C(OC4=O)C5=CN=CC=C5)O)C)O)(C)COC(=O)C6CC6)OC(=O)C7CC7;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;11;;66;371;2,7;;;-;0,052148659;;0,540643582;0,774936038;0,381024261;;;0,1;;10;100;3;1;3;3;0,5;0,5;0;55;0,212544147;;-
+[[(phosphonomethyl)imino]bis[ethane-2,1-diylnitrilobis(methylene)]]tetrakisphosphonic acid;15827-60-8;239-931-4;PRO-009;C(CN(CP(=O)(O)O)CP(=O)(O)O)N(CCN(CP(=O)(O)O)CP(=O)(O)O)CP(=O)(O)O;NS00004368;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;4685;;;;;;;-;0,999418704;;;;;;;0,1;;1000;1000;7;4;3;1;1,5;2;0,5;1000;0,529931973;;-
+[2,2-dimethyl-3-(morpholin-4-yl)propylidene][6-({2-methyl-2-[(morpholin-4-yl)methyl]propylidene}amino)hexyl]amine;1217271-49-2;700-570-7;PRO-010;CC(C)(CN1CCOCC1)C=NCCCCCCN=CC(C)(C)CN1CCOCC1;NS00010203;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2379;;;;;;;-;0,998150811;;;;;;;0,1;;0;10000000;7;4;3;1;1,5;2;0,5;5000000;1,008030137;;-
+[2-[[2-cyano-3-[4-(diethylamino)phenyl]-1-oxoallyl]oxy]ethyl][3-[[2-cyano-3-[4-(diethylamino)phenyl]-1-oxoallyl]oxy]propyl]dimethylammonium chloride;78181-99-4;278-859-8;PRO-011;CCN(CC)C1=CC=C(C=C1)C=C(C#N)C(=O)OCCC[N+](C)(C)CCOC(=O)C(=CC2=CC=C(C=C2)N(CC)CC)C#N.[Cl-];NS00001709;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;639;;;;2,1;0,1217285;302,4315642;-;0,982773865;;;;0,482678255;0,786157702;0,940763417;0,1;;10;1000;7;4;3;1;1,5;0,5;0,5;505;0,452772783;;0,12
+[2-butyl-4-chloro-1-({4-[2-(2H-1,2,3,4-tetrazol-5-yl)phenyl]phenyl}methyl)-1H-imidazol-5-yl]methanol;114798-26-4;601-329-8;PRO-012;CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl;NS00008822;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;384;;;;;0,302830345;45,93182146;-;0,959819459;;;;;0,7642978;0,387755155;0,1;;10;1000;3;1;3;1;0,5;0,5;0;505;0,232854574;;0,3
+[ethane-1,2-diylbis[nitrilobis(methylene)]]tetrakisphosphonic acid;1429-50-1;215-851-5;PRO-013;C(CN(CP(=O)(O)O)CP(=O)(O)O)N(CP(=O)(O)O)CP(=O)(O)O;NS00009310;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;648;;;;;;;-;0,983174003;;;;;;;0,1;;10;100;7;4;3;1;1,5;2;0,5;55;0,367121708;;-
+1-(3-chloropyridin-2-yl)-N-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]-3-{[5-(trifluoromethyl)-2H-tetrazol-2-yl]methyl}-1H-pyrazole-5-carboxamide;1229654-66-3;810-161-6;PRO-014;CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)CN4N=C(N=N4)C(F)(F)F)C(=O)NC)C#N;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;24;;183;218;2,3;;;-;0,17272887;;0,870608212;0,581135565;0,448200481;;;0,1;;10;100;7;4;3;1;0,5;0,5;0;55;0,309155123;;-
+1-(pyrimidin-5-ylmethyl)-3-[3-(trifluoromethyl)phenyl]pyrido[1,2-a]pyrimidin-1-ium-3-ide-2,4-dione;1263133-33-0;816-285-7;PRO-015;C1=CC2=[N+](C(=C(C(=O)N2C=C1)C3=CC(=CC=C3)C(F)(F)F)[O-])CC4=CN=CN=C4;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;740;692;1,6;;;-;;;0,986544425;0,909048964;0,568874072;;;0,1;;10;100;7;4;3;1;0,5;0,5;0;55;0,309155123;;-
+"1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxybutane; 1,1,1,2,3,3-hexafluoro-3-methoxy-2-(trifluoromethyl)propane";163702-08-7;422-270-2;PRO-016;c1(NP(=O)(N)N)c(N(=O)=O)cccc1;NS00011159;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;4423;;;;1,8;;;-;0,999358648;;;;0,534601961;;;0,1;;;;7;4;3;1;1,5;0,5;0,5;;;;-
+"1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxybutane; 1,1,1,2,3,3-hexafluoro-3-methoxy-2-(trifluoromethyl)propane";163702-08-7;422-270-2;PRO-017;CC(C)(C)CC(C)(C)c1cc(n2nc3ccccc3n2)c(O)c(c1)C(C)(C)c1ccccc1;NS00011159;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1520;;;;1,9;;;-;0,996031329;;;;0,517321745;;;0,1;;1;10000000;7;4;3;1;1,5;0,5;0,5;5000000,5;0,928448815;;-
+1,1,1,3,3,3-hexafluoropropan-2-ol;920-66-1;213-059-4;PRO-018;OC(C(F)(F)F)C(F)(F)F;NS00008561;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;271;;;;;0,597191583;117,0476527;-;0,929403153;;;;;0,725588192;0,758112303;0,1;;0;10;7;4;0;1;1,5;0,5;0;5;0,171330477;;0,6
+1,1,1,3,5,5,5-heptamethyltrisiloxane;1873-88-7;217-496-1;PRO-019;C[SiH](O[Si](C)(C)C)O[Si](C)(C)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;120;192;3,6;0,089545166;27,33156583;-;;;0,765835392;0,527554388;0,248050747;0,789884007;0,206821431;0,1;;1000;10000000;3;4;3;1;1,5;0,5;0;5000500;0,689708671;;-
+1,1,1-trichloroethane;71-55-6;200-756-3;PRO-020;CC(Cl)(Cl)Cl;NS00006146;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;107;;;;;0,472181569;77,5828328;"Acute Tox. 4 *
+Ozone 1
+";0,728875616;;;;;0,742499978;0,608103461;0;;0;0;3;1;0;3;0,5;0,5;0;0;;;0,47
+1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulphonic acid;375-73-5;206-793-1;PRO-021;OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;NS00010276;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;;;1,4;0,511815959;246,896371;-;;;;;0,602498941;0,737212522;0,918213364;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;0,51
+1,1,2,2-tetrahydroperfluoro-1-tetradecanol;39239-77-5;254-373-1;PRO-022;C(CO)C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00010926;-;;;;;;;0,099932958;34633,16406;-;;;;;;0,788686504;0,99998097;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+1,1,2-trichloroethane;79-00-5;201-166-9;PRO-023;ClCC(Cl)Cl;NS00004799;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;56;;;;1,7;0,562078611;51,29406907;"Carc. 2
+Acute Tox. 4 *
+Acute Tox. 4 *
+Acute Tox. 4 *
+";0,470548111;;;;0,551799519;0,730407523;0,433398377;0;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,56
+1,1-Dichloroethane;75-34-3;200-863-5;PRO-024;CC(Cl)Cl;NS00001673;-;;;;;;;0,576828503;31,53926299;"Flam. Liq. 2
+Acute Tox. 4 *
+STOT SE 3
+Eye Irrit. 2
+Aquatic Chronic 3
+";;;;;;0,728389586;0,249851188;0;;;;3;1;3;3;0,5;0,5;0;;;;0,58
+1,1-dichloroethylene;75-35-4;200-864-0;PRO-025;C=C(Cl)Cl;NS00008027;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;36;;;;1,4;0,526280693;31,26359992;"Flam. Liq. 1
+Carc. 2
+Acute Tox. 4 *
+";0,294575966;;;;0,602498941;0,735265531;0,247048999;0;;10000;100000;3;4;3;1;0,5;0,5;0;55000;0,476764301;;0,53
+1,2,3,4-tetrahydronaphthalene;119-64-2;204-340-2;PRO-026;C1CCC2=CC=CC=C2C1;NS00008482;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;41;;;;2,7;0,328942649;24,80117319;"Skin Irrit. 2
+Eye Irrit. 2
+Aquatic Chronic 2
+";0,342778895;;;;0,381024261;0,761021622;0,180898203;0;;0;10000;7;4;0;1;0,5;0,5;0;5000;0,424398708;;0,33
+1,2,3,6-tetrahydromethyl-3,6-methanophthalic anhydride;25134-21-8;246-644-8;PRO-027;CC12C3CC(C1C(=O)OC2=O)C=C3;NS00002939;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;44;;;;;0,548008049;22,57980753;-;0,370467128;;;;;0,732323683;0,158332769;0,1;;1000;1000;7;4;3;1;0,5;0,5;0;1000;0,446258503;;0,55
+1,2,3-trichlorobenzene;87-61-6;201-757-1;PRO-028;Clc1cccc(Cl)c1Cl;NS00004401;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;117;;;;2,9;0,287447192;76,72491134;-;0,757984627;;;;0,34891032;0,76621325;0,603564093;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,29
+1,2,3-trichloropropane;96-18-4;202-486-1;PRO-029;ClCC(Cl)CCl;NS00006830;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;2500;;;;1,9;0,505250397;54,4918344;"Carc. 1B
+Repr. 1B
+Acute Tox. 4 *
+Acute Tox. 4 *
+Acute Tox. 4 *
+";0,998300918;;;;0,517321745;0,738093216;0,45893889;1;;1000;1000;3;4;3;1;0,5;0,5;0;1000;0,334693878;;0,51
+1,2,4-triazole;288-88-0;206-022-9;PRO-030;c1ncn[nH]1;NS00004235;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2500;;;;;0,714409037;14,10756138;"Repr. 1B
+Acute Tox. 4
+Eye Irrit. 2
+";0,998300918;;;;;0,709117896;0,077647648;1;;0;10;7;4;3;1;1,5;0,5;0;5;0,20804415;;-
+1,2,4-trichlorobenzene;120-82-1;204-428-0;PRO-031;Clc1ccc(Cl)cc1Cl;NS00001861;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;117;;;;3,3;0,289809668;76,72491134;"Acute Tox. 4 *
+Skin Irrit. 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,757984627;;;;0,288826279;0,765919788;0,603564093;1;;0;0;7;4;0;1;0,5;0,5;0;0;;;0,29
+1,2-dibromoethane;106-93-4;203-444-5;PRO-032;C(CBr)Br;NS00002962;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;30;;;;0,1;0,551679517;21,02791288;"Carc. 1B
+Acute Tox. 3 *
+Acute Tox. 3 *
+Acute Tox. 3 *
+STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+Aquatic Chronic 2
+";0,234164608;;;;0,788678759;0,731824529;0,142777256;0,5;;1000;1000;7;4;3;1;0,5;0,5;0,5;1000;0,460204082;;0,55
+1,2-dichlorobenzene;95-50-1;202-425-9;PRO-033;Clc1ccccc1Cl;NS00008007;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;191;;;0,336962875;44,20008906;"Acute Tox. 4 *
+STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;0,878627049;;;0,760009117;0,372277883;1;;0;100000;7;4;0;1;0,5;0,5;0;50000;0,512834082;;0,34
+1,2-dichloroethane;107-06-2;203-458-1;PRO-034;ClCCCl;NS00004126;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;2500;;;;;0,621571563;31,53926299;"Flam. Liq. 2
+Carc. 1B
+Acute Tox. 4 *
+STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+";0,998300918;;;;;0,722210654;0,249851188;0,5;;1000000;10000000;7;4;3;1;1,5;0,5;0,5;5500000;0,933376511;;0,62
+1,2-dichloropropane;78-87-5;201-152-2;PRO-035;CC(CCl)Cl;NS00009881;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;1,7;0,548711878;33,50547787;"Flam. Liq. 2
+Carc. 1B
+Acute Tox. 4 *
+Acute Tox. 4 *
+";0,998300918;;;;0,551799519;0,732228039;0,269724229;0,5;;0;10000;7;4;0;1;1,5;2;0;5000;0,506013844;;0,55
+1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethylindeno[5,6-c]pyran;1222-05-5;214-946-9;PRO-036;CC1COCc2cc3c(cc12)C(C)(C)C(C)C3(C)C;NS00008760;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;239;79;3,8;0,189352526;85,9163875;"Aquatic Acute 1
+Aquatic Chronic 1
+";;;0,913942188;0,196581613;0,223104613;0,778171986;0,64879937;1;;1000;1000;7;4;3;1;1,5;2;0,5;1000;0,529931973;;0,19
+1,3-dichloro-4-nitrobenzene;611-06-3;210-248-3;PRO-037;O=N(=O)c1ccc(Cl)cc1Cl;NS00002924;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;192;;;;;0,358049979;74,70149265;-;0,879575822;;;;;0,75733302;0,592581818;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,36
+1,3-dichlorobenzene;541-73-1;208-792-1;PRO-038;C1=CC(=CC(=C1)Cl)Cl;NS00006298;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;131;;;;2,4;0,323655387;44,20008906;"Acute Tox. 4 *
+Aquatic Chronic 2
+";0,791646139;;;;0,431125928;0,761687502;0,372277883;0;;0;10000;3;1;0;1;0,5;0,5;0;5000;0,195876327;;0,32
+1,3-di-o-tolylguanidine;97-39-2;202-577-6;PRO-039;CC1=CC=CC=C1NC(=NC2=CC=CC=C2C)N;NS00008988;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;236;;;;;0,583581502;39,70317479;-;0,91222852;;;;;0,727462551;0,330509818;0,1;;10;1000;7;4;3;1;0,5;0,5;0,5;505;0,426900053;;0,58
+1,3-dioxolane;646-06-0;211-463-5;PRO-040;C1COCO1;NS00004542;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;;;0,9;0,733518775;14,91122811;"Flam. Liq. 2
+";;;;;0,681888;0,706378127;0,084708005;0;;10000;10000000;7;4;3;1;1,5;2;0;5005000;0,981557657;;0,73
+1,3-diphenylguanidine;102-06-7;203-002-1;PRO-041;C1=CC=C(C=C1)NC(=NC2=CC=CC=C2)N;NS00011462;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;194;;;;2,5;0,652222561;31,2331198;"Repr. 2
+Acute Tox. 4 *
+STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+Aquatic Chronic 2
+";0,881439684;;;;0,414213562;0,717928244;0,246738952;0,5;;1000;1000;7;4;3;1;1,5;2;0,5;1000;0,529931973;;-
+1,4,5,6,7,7-hexachloro-8,9,10-trinorborn-5-ene-2,3-dicarboxylic anhydride;115-27-5;204-077-3;PRO-042;C12C(C(=O)OC1=O)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl;NS00007305;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2923;;;;;0,351481338;1361,224622;"STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+";0,99869884;;;;;0,758168795;0,995211531;0;;1000;1000;7;4;3;1;0,5;0,5;0,5;1000;0,460204082;;0,35
+1,4-bis({3-[2-(2-hydroxyethoxy)ethoxy]propyl}amino)-9,10-anthraquinone;123944-63-8;807-560-2;PRO-043;OCCOCCOCCCNc1ccc(NCCCOCCOCCO)c2c1C(=O)c1ccccc1C2=O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1592;;;;2,9;;;-;0,996332113;;;;0,34891032;;;0,1;;10;10000000;7;4;3;3;1,5;2;0;5000005;1,087611524;;-
+1,4-bis(p-tolylamino)anthraquinone;128-80-3;204-909-5;PRO-044;CC1=CC=C(C=C1)NC2=C3C(=C(C=C2)NC4=CC=C(C=C4)C)C(=O)C5=CC=CC=C5C3=O;NS00005332;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;677;;;;;0,039908605;157,4806168;-;0,984368379;;;;;0,795537243;0,838837832;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;0,04
+1,4-dioxane;123-91-1;204-661-8;PRO-045;C1COCCO1;NS00002649;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;;0,725945718;15,84082113;"Flam. Liq. 2
+Carc. 1B
+STOT SE 3
+Eye Irrit. 2
+";0,998300918;;;;;0,707465681;0,093075427;0,5;;1000;10000000;7;4;3;1;1,5;0,5;0,5;5000500;0,92845398;;0,73
+1,5-naphthylene diisocyanate;3173-72-6;221-641-4;PRO-046;C1=CC2=C(C=CC=C2N=C=O)C(=C1)N=C=O;NS00006855;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;66;;;;;0,224031077;25,91908878;"STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+Resp. Sens. 1
+Skin Sens. 1A
+Aquatic Chronic 3";0,540643582;;;;;0,773994923;0,192335783;0;;1000;1000;7;4;3;1;0,5;0,5;0;1000;0,446258503;;0,22
+1,5-naphthylenediamine;2243-62-1;218-817-8;PRO-047;Nc1cccc2c1cccc2N;NS00010628;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;157;;;;;0,700815609;35,07043143;"Carc. 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,838130185;;;;;0,711057583;0,285368853;1;;0;0;3;1;0;3;0,5;0,5;0;0;;;0,7
+1-[2-(allyloxy)ethyl-2-(2,4-dichlorophenyl)-1H-imidazolium hydrogen sulphate;58594-72-2;261-351-5;PRO-048;C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl.OS(=O)(=O)O;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;171;187;;0,282335362;85,88287238;-;;;0,856976758;0,516299441;;0,766847356;0,648647375;0,1;;10;1000;7;4;3;1;1,5;0,5;0;505;0,439836418;;0,28
+10:2 fluorotelomer sulfonic acid;120226-60-0;-;PRO-049;C(CS(=O)(=O)O)C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+11Cl-PF3OUdS (F53 B minor);83329-89-9;-;PRO-050;-;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+17-hydroxy-19-norpregn-4-ene-3,20-dione 17-acetate;31981-44-9;250-882-8;PRO-051;CC(=O)OC1(CCC2C3CCC4=CC(=O)CCC4C3CCC12C)C(=O)C;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;106;;;;;0,328453219;93,32516352;-;0,725691882;;;;;0,761083315;0,68030383;0,1;;0;10;3;4;0;1;0,5;0,5;0;5;0,110141021;;0,33
+1-bromo-3,4,5-trifluorobenzene;138526-69-9;418-480-9;PRO-052;c1(F)c(F)c(F)cc(Br)c1;NS00024484;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;13565;;;;;;;"Flam. Liq. 3
+Carc. 2
+Skin Irrit. 2
+Eye Dam. 1
+Aquatic Chronic 2
+";0,999905526;;;;;;;0;;0;10000000;3;1;0;1;0,5;0,5;0;5000000;0,318325306;;-
+1-bromo-3-chloropropane;109-70-6;203-697-1;PRO-053;ClCCCBr;NS00006575;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;32;;;;1,6;0,518775456;27,35823846;-;0,254526695;;;;0,568874072;0,736276907;0,207095109;0,1;;0;10;3;1;0;1;0,5;0,5;0;5;0,073427347;;0,52
+1-chloro-2,4-dinitrobenzene;97-00-7;202-551-4;PRO-054;c1cc(c(cc1N(=O)=O)N(=O)=O)Cl;NS00003347;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;409;;;;1,9;0,403558971;72,73143634;-;0,9637777;;;;0,517321745;0,751488839;0,581506256;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,4
+1-chloro-2-nitrobenzene;88-73-3;201-854-9;PRO-055;O=N(=O)c1ccccc1Cl;NS00002910;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;115;;;;2;0,433984167;43,03442741;-;0,752536572;;;;0,5;0,747529519;0,361664726;0,1;;0;10;3;4;0;1;1,5;0,5;0;5;0,122378912;;0,43
+1-chloro-4-nitrobenzene;100-00-5;202-809-6;PRO-056;c1cc(ccc1N(=O)=O)Cl;NS00009240;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;115;;;;;0,419909427;43,03442741;"Carc. 2
+Muta. 2
+Acute Tox. 3 *
+Acute Tox. 3 *
+Acute Tox. 3 *
+STOT RE 2 *
+Aquatic Chronic 2
+";0,752536572;;;;;0,749366285;0,361664726;0,5;;0;10;3;4;0;1;0,5;0,5;0;5;0,110141021;;0,42
+1H,1H,2H,2H-Perfluoro-1-decanol;678-39-7;211-648-0;PRO-057;C(CO)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00010921;-;;;;;;;0,248037819;2793,417082;-;;;;;;0,771070841;0,998594112;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+1H,1H,2H,2H-Perfluorododecan-1-ol;865-86-1;212-748-7;PRO-058;C(CO)C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00009618;-;;;;;;;0,156538929;9836,856572;-;;;;;;0,782073324;0,999836369;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+1H,1H,2H,2H-Perfluorohexan-1-ol;2043-47-2;218-050-9;PRO-059;C(CO)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F;NS00010126;-;;;;;;;0,441524585;225,3094456;-;;;;;;0,746541828;0,905672589;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+1H,1H,2H,2H-Perfluorooctan-1-ol / ;647-42-7;211-477-1;PRO-060;C(CO)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00010919;-;;;;;;;0,329509015;793,2594052;-;;;;;;0,760950218;0,988033743;0,1;;;;3;1;3;1;0,5;0,5;0;;;;0,33
+1-methylpiperazine;109-01-3;203-639-5;PRO-061;CN1CCNCC1;NS00006535;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;29;;;;2,9;0,85271908;26,63154067;-;0,223931947;;;;0,34891032;0,68895418;0,199639716;0,1;;0;100;7;4;0;1;0,5;0,5;0;50;0,24752796;;0,85
+1-vinylimidazole;1072-63-5;214-012-0;PRO-062;C=CN1C=CN=C1;NS00001038;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;23;;;;;0,525191879;15,71462521;"Repr. 1B
+";0,162578646;;;;;0,735412409;0,09192763;1;;1;10000000;7;4;3;1;0,5;0,5;0,5;5000000,5;0,875394597;;0,53
+2-(2H-1,2,3-benzotriazol-2-yl)-6-(2-phenylpropan-2-yl)-4-(2,4,4-trimethylpentan-2-yl)phenol;73936-91-1;422-600-5;PRO-063;c1(NP(=O)(N)N)c(N(=O)=O)cccc1;NS00005141;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;421;;;;0,7;;;-;0,965464475;;;;0,711173721;;;0,1;;0;10000;7;4;3;1;1,5;2;0,5;5000;0,620275035;;-
+2,2'-(2,5-dichloro-1,4-phenylene)bis(1H-anthra[1,2-d]imidazole-6,11-dione);40783-05-9;255-078-0;PRO-064;Clc1cc(c2nc3c4C(=O)c5ccccc5C(=O)c4ccc3[nH]2)c(Cl)cc1c1nc2c3C(=O)c4ccccc4C(=O)c3ccc2[nH]1;NS00020301;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1047;;;;;0,101977545;447,8942238;-;0,992520438;;;;;0,788450216;0,968825408;0,1;;0;10;7;4;3;3;1,5;0,5;0,5;5;0,238638878;;0,1
+2,2,2-trifluoroethanol;75-89-8;200-913-6;PRO-065;OCC(F)(F)F;NS00008975;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;51;;;;;0,705387879;32,09790245;-;0,430986365;;;;;0,710406009;0,255518837;0,1;;0;10;7;4;0;1;1,5;0,5;0;5;0,171330477;;-
+2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoic acid;919005-14-4;700-835-7;PRO-066;OC(=O)C(F)(F)C(F)OC(F)(F)C(F)(F)C(F)(F)OC(F)(F)F;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;4366;;;;1,3;;;-;0,999344277;;;;0,618975739;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+2,2'-[(2,2',5,5'-tetrachloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[N-(2,4-dimethylphenyl)-3-oxobutyramide];22094-93-5;244-776-0;PRO-067;CC1=CC(=C(C=C1)NC(=O)C(C(=O)C)N=NC2=C(C=C(C(=C2)Cl)C3=CC(=C(C=C3Cl)N=NC(C(=O)C)C(=O)NC4=C(C=C(C=C4)C)C)Cl)Cl)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;34018;;;;;0,022042679;10604,1259;-;0,999980378;;;;;0,79754418;0,999856083;0,1;;10;100;7;4;3;1;1,5;2;0,5;55;0,367121708;;0,02
+2,2'-[(3,3'-dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[3-oxo-N-phenylbutyramide];6358-85-6;228-787-8;PRO-068;CC(=O)C(C(=O)NC1=CC=CC=C1)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC=CC=C4)Cl)Cl;NS00009591;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;4469;;;;;0,057792146;1413,728943;-;0,999369885;;;;;0,793513562;0,995510181;0,1;;10000;100000;7;4;3;1;1,5;2;0,5;55000;0,75487681;;0,06
+2,2'-[(3,3'-dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[N-(2,4-dimethylphenyl)-3-oxobutyramide];5102-83-0;225-822-9;PRO-069;CC1=CC(=C(C=C1)NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=C(C=C(C=C4)C)C)Cl)Cl)C;NS00006890;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;9976;;;;;0,039249909;3518,549377;-;0,999840251;;;;;0,795611498;0,999051998;0,1;;1000;1000;7;4;3;1;1,5;2;0,5;1000;0,529931973;;0,04
+2,2'-[(3,3'-dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[N-(2-methoxyphenyl)-3-oxobutyramide];4531-49-1;224-867-1;PRO-070;CC(=O)C(C(=O)NC1=CC=CC=C1OC)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC=CC=C4OC)Cl)Cl;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;4438;;;;;0,07579686;2503,83622;-;0,999362346;;;;;0,791461239;0,998305358;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;0,08
+2,2'-[(3,3'-dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[N-(2-methylphenyl)-3-oxobutyramide];5468-75-7;226-789-3;PRO-071;CC1=CC=CC=C1NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC=CC=C4C)Cl)Cl;NS00006410;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;6380;;;;;0,058421884;2328,567258;-;0,999657045;;;;;0,793442032;0,998081952;0,1;;1000;1000;7;4;3;1;1,5;2;0,5;1000;0,529931973;;0,06
+2,2'-[(3,3'-dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[N-(4-chloro-2,5-dimethoxyphenyl)-3-oxobutyramide];5567-15-7;226-939-8;PRO-072;CC(=O)C(C(=O)NC1=CC(=C(C=C1OC)Cl)OC)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC(=C(C=C4OC)Cl)OC)Cl)Cl;NS00006520;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;18503;;;;;0,040821452;12262,91903;-;0,999944429;;;;;0,795434304;0,99988774;0,1;;1000;1000;7;4;3;1;1,5;2;0,5;1000;0,529931973;;0,04
+2,2'-[(3,3'-dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[N-(4-ethoxyphenyl)-3-oxobutyramide];31775-20-9;250-799-7;PRO-073;CCOC1=CC=C(C=C1)NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC=C(C=C4)OCC)Cl)Cl;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;4777;;;;;0,035234916;2825,754769;-;0,9994377;;;;;0,796063677;0,998621467;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;0,04
+2,2'-[[5-acetamido-4-[(2-chloro-4,6-dinitrophenyl)azo]-2-methoxyphenyl]imino]diethyl diacetate;3618-73-3;222-814-7;PRO-074;CC(=O)NC1=CC(=C(C=C1N=NC2=C(C=C(C=C2Cl)[N+](=O)[O-])[N+](=O)[O-])OC)N(CCOC(=O)C)CCOC(=O)C;NS00020299;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1108;;;;;0,170399075;790,9415268;-;0,99320587;;;;;0,780431501;0,987974454;0,1;;10;100;7;4;3;1;1,5;2;0,5;55;0,367121708;;0,17
+2,2'-azobis[2-methylbutyronitrile];13472-08-7;236-740-8;PRO-075;CCC(C)(C#N)N=NC(C)(CC)C#N;NS00001627;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;;0,171184392;136,0190637;-;0,998300918;;;;;0,78033821;0,802049027;0,1;;10;1000;7;4;3;1;1,5;0,5;0;505;0,439836418;;0,17
+2,2-difluoro-2-(trifluoromethoxy)acetic Acid;674-13-5;821-118-6;PRO-076;C(=O)(C(OC(F)(F)F)(F)F)O;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+2,2'-dimethyl-2,2'-azodipropiononitrile;78-67-1;201-132-3;PRO-077;CC(C)(C#N)N=NC(C)(C)C#N;NS00005643;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;950;;;;;0,373063194;120,5233596;"Self-react. C
+Acute Tox. 4 *
+Acute Tox. 4 *
+Aquatic Chronic 3
+";0,991179971;;;;;0,755415423;0,767166895;0;;0;10000;7;4;0;1;1,5;0,5;0;5000;0,457044762;;0,37
+2,2'-dimorpholinyldiethyl ether;6425-39-4;229-194-7;PRO-078;C1COCCN1CCOCCN2CCOCC2;NS00005825;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1053;;;;;0,821465795;85,38171168;-;0,992592609;;;;;0,693577403;0,646363842;0,1;;1000;1000;7;4;3;1;1,5;2;0,5;1000;0,529931973;;0,82
+2,2'-iminobis[4,6-diamino-1,3,5-triazine];3576-88-3;222-695-1;PRO-079;C1(=NC(=NC(=N1)NC2=NC(=NC(=N2)N)N)N)N;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1145;;;;;0,690218181;281,0419116;-;0,993574491;;;;;0,712564424;0,933376897;0,1;;10;1000;7;1;3;1;0,5;0,5;0,5;505;0,349281861;;0,69
+2,3,4-trichlorobut-1-ene;2431-50-7;219-397-9;PRO-080;C=C(C(CCl)Cl)Cl;NS00002662;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;62;;;;2;0,382643981;57,38298655;"Carc. 2
+Acute Tox. 3 *
+Acute Tox. 4 *
+STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,514009975;;;;0,5;0,754186351;0,480949584;1;;0;0;3;1;0;3;0,5;0,5;0;0;;;0,38
+2,3-epoxypropyl o-tolyl ether;2210-79-9 ;218-645-3;PRO-081;CC1=CC=CC=C1OCC2CO2;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;32;;;;2,3;;;"Muta. 2
+Skin Irrit. 2
+Skin Sens. 1
+Aquatic Chronic 2
+";0,254526695;;;;0,448200481;;;0;;1000;10000000;3;1;3;3;0,5;0,5;0;5000500;0,583599645;;-
+2,4,5-trichloroaniline;636-30-6;211-254-9;PRO-082;Nc1cc(Cl)c(Cl)cc1Cl;NS00006767;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;231;;;;3;0,340113754;106,5017022;-;0,90925286;;;;0,333333333;0,759610535;0,727295809;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,34
+2,4,6-tribromophenol;118-79-6;204-278-6;PRO-083;Oc1c(Br)cc(Br)cc1Br;NS00004395;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;523;;3;0,27807151;86,5725527;-;;;0,975908199;;0,333333333;0,767375356;0,651757219;0,1;;0;1000;3;1;0;3;0,5;0,5;0;500;0,206746667;;0,28
+2,4,6-triisopropyl-m-phenylene diisocyanate;2162-73-4;218-485-4;PRO-084;CC(C)c1cc(c(c(c1N=C=O)C(C)C)N=C=O)C(C)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;223;;;;;0,040645405;55,78253474;"Resp. Sens. 1
+Skin Sens. 1";0,904157118;;;;;0,79545416;0,46889134;0;;10;1000;3;4;3;1;0,5;0,5;0;505;0,310472766;;0,04
+2,4,6-trinitrobenzene-1,3,5-triamine;3058-38-6;221-297-5;PRO-085;Nc1c(c(N)c(c(N)c1N(=O)=O)N(=O)=O)N(=O)=O;NS00022025;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;5448;;;;;0,72353972;189,435005;-;0,999550805;;;;;0,707810708;0,87711914;0,1;;0;10000000;3;1;3;3;0,5;0,5;0;5000000;0,583596395;;0,72
+2,4,6-tris(dimethylaminomethyl)phenol;90-72-2;202-013-9;PRO-086;CN(C)CC1=CC(=C(C(=C1)CN(C)C)O)CN(C)C;NS00003023;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;812;;;;;0,61540563;130,8908407;"Acute Tox. 4 *
+Skin Irrit. 2
+Eye Irrit. 2
+";0,988496607;;;;;0,72306728;0,791410984;0;;1000;1000;7;4;3;1;1,5;2;0;1000;0,515986395;;0,62
+2,4,8,10-tetra(tert-butyl)-6-hydroxy-12H-dibenzo[d,g][1,3,2]dioxaphosphocin 6-oxide, sodium salt;85209-91-2;286-344-4;PRO-087;CC(C)(C)C1=CC2=C(C(=C1)C(C)(C)C)OP(=O)(OC3=C(C2)C=C(C=C3C(C)(C)C)C(C)(C)C)[O-].[Na+];NS00020034;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1375;;;;2,9;0,038151449;517,0492778;-;0,995292865;;;;0,34891032;0,795735284;0,975443952;0,1;;10;1000;7;4;3;3;0,5;0,5;0,5;505;0,478645514;;0,04
+2,4-diaminotoluene;95-80-7;202-453-1;PRO-088;CC1=C(C=C(C=C1)N)N;NS00007515;-;;;;;;;0,672906047;34,75034378;"Carc. 1B
+Muta. 2
+Repr. 2
+Acute Tox. 3 *
+Acute Tox. 4 *
+STOT RE 2 *
+Skin Sens. 1
+Aquatic Chronic 2
+";;;;;;0,715015908;0,282183113;0,5;;;;3;1;3;1;0,5;0,5;0;;;;0,67
+2,4-dichlorophenol;120-83-2;204-429-6;PRO-089;Oc1ccc(Cl)cc1Cl;NS00004912;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;49;;;;2,3;0,3673101;42,42591481;"Acute Tox. 3 *
+Acute Tox. 4 *
+Skin Corr. 1B
+Aquatic Chronic 2
+";0,414299963;;;;0,448200481;0,756151459;0,35606344;0;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,37
+2,4-dichlorotoluene;95-73-8;202-445-8;PRO-090;Cc1ccc(Cl)cc1Cl;NS00002540;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;63;;;;3,2;0,237915715;54,33261102;-;0,520839754;;;;0,303269545;0,772306973;0,45769697;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,24
+2,4-dinitrophenol;51-28-5;200-087-7;PRO-091;C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])O;NS00010496;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;1,1;0,422004479;40,21767726;"Acute Tox. 2
+Acute Tox. 3 *
+Acute Tox. 3
+STOT RE 1
+Aquatic Acute 1
+";0,998300918;;;;0,65108968;0,749093443;0,33539825;1;;10;1000;3;4;3;3;0,5;0,5;0,5;505;0,375154592;;0,42
+2,4-di-tert-butylphenol;96-76-4;202-532-0;PRO-092;CC(C)(C)c1cc(c(cc1)O)C(C)(C)C;NS00010683;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;;;3,7;0,204168805;52,25355976;-;;;;;0,235348963;0,776394136;0,441194183;0,1;;0;1000;7;4;0;1;1,5;2;0;500;0,400571667;;0,2
+2,5-bis-isocyanatomethyl-bicyclo[2.2.1]heptane;74091-64-8;411-280-2;PRO-093;C(=O)=NCC1C2C(CN=C=O)CC(C2)C1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;38;;;;;;;-;0,314140244;;;;;;;0,1;;0;10000000;3;4;3;1;0,5;0,5;0;5000000;0,636650613;;-
+2,5-diaminobenzenesulphonic acid;88-45-9;201-832-9;PRO-094;C1=CC(=C(C=C1N)S(=O)(=O)O)N;NS00007767;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;280;;;;1,3;0,894360035;30,24377472;-;0,93298097;;;;0,618975739;0,682735394;0,236654788;0,1;;10;100;7;1;3;1;0,5;0,5;0;55;0,251188537;;0,89
+2,5-di-tert-pentylhydroquinone;79-74-3;201-222-2;PRO-095;CCC(C)(C)c1cc(c(cc1O)C(C)(C)CC)O;NS00008202;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;55;;;;3,7;0,151686931;56,59366001;-;0,462881681;;;;0,235348963;0,782645977;0,475041554;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;0,15
+2,6-xylidine;87-62-7;201-758-7;PRO-096;Cc1cccc(C)c1N;NS00008896;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2500;;;;1,6;0,51363429;30,77346387;"Carc. 2
+Acute Tox. 4 *
+Acute Tox. 4 *
+Acute Tox. 4 *
+STOT SE 3
+Skin Irrit. 2
+Aquatic Chronic 2
+";0,998300918;;;;0,568874072;0,736968277;0,242058517;0;;0;10;3;4;0;1;0,5;0,5;0;5;0,110141021;;0,51
+2:2 fluorotelomer alcohol;54949-74-5;259-405-8;PRO-097;C(CO)C(C(F)(F)F)(F)F;NS00003254;-;;;;;;;0,590722298;63,98215216;-;;;;;;0,726480131;0,527435548;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+2-[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-3-pyridine carboxylate;81334-34-1;617-219-8;PRO-098;CC(C)C1(C(=O)NC(=N1)C2=C(C=CC=N2)C(=O)O)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;2154;;1,5;0,748285435;69,49948649;"Eye Irrit. 2
+Aquatic Chronic 3
+";;;0,997809234;;0,585786438;0,704250733;0,562485395;0;;10;100;3;1;3;3;0,5;0,5;0;55;0,212544147;;0,75
+2-[difluoro(methoxy)methyl]-1,1,1,3,3,3-hexafluoropropane;382-26-3;609-534-4;PRO-099;COC(F)(F)C(C(F)(F)F)C(F)(F)F;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1839;;;;;;;-;0,997131316;;;;;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+2-{2-chloro-4-(methylsulfonyl)-3-[(tetrahydrofuran-2-ylmethoxy)methyl]benzoyl}cyclohexane-1,3-dione;473278-76-1;695-022-6;PRO-100;CS(=O)(=O)C1=C(C(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl)COCC3CCCO3;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;1000;;1,5;;;-;;;0,991914442;;0,585786438;;;0,1;;10;100;7;4;3;1;0,5;0,5;0;55;0,309155123;;-
+21-Acetoxy-6alpha-fluoro-11ß-hydroxy-16alpha-methyl-4-pregnene-3,20-dione;1176-81-4;601-489-9;PRO-101;CC(=O)OCC(=O)C1[C@H](C)CC2C3C[C@H](F)C4=CC(=O)CCC4(C)C3[C@@H](O)CC12C;NS00077291;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;94;;;;;;;-;0,6829767;;;;;;;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;-
+2-amino-4,5-dichlorobenzenesulfonic acid;6331-96-0;700-413-2;PRO-102;Nc1cc(Cl)c(Cl)cc1S(=O)(=O)O;NS00009690;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;334;;;;;;;-;0,949544129;;;;;;;0,1;;0;100;3;4;0;1;0,5;0,5;0;50;0,17136551;;-
+2-amino-4,6-dinitrophenol;96-91-3;202-544-6;PRO-103;Nc1cc(cc(c1O)N(=O)=O)N(=O)=O;NS00006370;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;505;;;;0,6;0,496031816;55,82608062;"Expl. 1.1
+Acute Tox. 4 *
+Acute Tox. 4 *
+Acute Tox. 4 *
+Aquatic Chronic 3
+";0,974459677;;;;0,725200425;0,739326565;0,46922356;0;;0;10;7;4;0;1;0,5;0,5;0;5;0,159092585;;-
+2-amino-4-cresol;95-84-1;202-457-3;PRO-104;CC1=CC(=C(C=C1)O)N;NS00015128;-;;;;;;;0,54974152;24,02493931;-;;;;;;0,732088082;0,172982724;0,1;;;;3;1;3;1;0,5;0,5;0;;;;0,55
+2-aminophenol;95-55-6;202-431-1;PRO-105;C1=CC=C(C(=C1)N)O;NS00001117;-;;;;;;;0,600289007;19,54451364;"Muta. 2
+Acute Tox. 4 *
+Acute Tox. 4 *
+";;;;;;0,725160502;0,128143597;0;;;;3;1;3;1;0,5;0,5;0;;;;0,6
+2-bromo-3,3,3-trifluoroprop-1-ene;1514-82-5;627-872-0;PRO-106;C=C(C(F)(F)F)Br;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;99;;;;2,2;;;-;0,701841215;;;;0,465398039;;;0,1;;10;100;7;4;3;1;0,5;2;0;55;0,338138415;;-
+2-chlorobuta-1,3-diene;126-99-8;204-818-0;PRO-107;C=CC(=C)Cl;NS00008234;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;27;;;;1,4;0,466191427;21,50919177;"Flam. Liq. 2
+Carc. 1B
+Acute Tox. 4 *
+Acute Tox. 4 *
+STOT SE 3
+STOT RE 2 *
+Skin Irrit. 2
+Eye Irrit. 2
+";0,203419487;;;;0,602498941;0,743293025;0,147577803;0,5;;10000;100000;3;1;3;1;0,5;0,5;0;55000;0,357573226;;0,47
+2-ethoxy-1-{[2'-(1H-tetrazol-5-yl)biphenyl-4-yl]methyl}-1H-benzimidazole-7-carboxylic acid;139481-59-7;604-138-8;PRO-108;CCOc1nc2cccc(C(=O)O)c2n1Cc1ccc(cc1)c1ccccc1c1nn[nH]n1;NS00009281;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;124;;;;;;;-;0,775737597;;;;;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+2-Ethylhexyl (R)-2-(2-methyl-4chlorophenoxy)propionate;861229-15-4;630-324-3;PRO-109;CCCCC(CC)COC(=O)C(C)OC1=C(C=C(C=C1)Cl)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;61;;8;61;2,1;;;-;0,507063787;;0,030933321;0,135892496;0,482678255;;;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;-
+2-ethylhexyl 4,4-dibutyl-10-ethyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate;10584-98-2;234-186-1;PRO-110;CCCCC(CC)COC(=O)CS[Sn](CCCC)(CCCC)SCC(=O)OCC(CC)CCCC;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;;;;;;-;;;;;;;;0,1;;10;100;7;4;3;1;0,5;0,5;0,5;55;0,31881622;;-
+2H,2H,3H,3H-Perfluoroundecanoic acid;34598-33-9;252-108-4;PRO-111;C(CC(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C(=O)O;NS00002588;-;;;;;;;0,231072747;2114,634884;-;;;;;;0,773139979;0,997739215;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,23
+2-hydroxy-N,N,N-trimethyl-3-[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)thio]propan-1-aminium chloride;88992-45-4;811-523-6;PRO-112;C[N+](C)(C)CC(CSCCC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O.[Cl-];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;4623;;;;;;;-;0,999405321;;;;;;;0,1;;10;100;7;4;3;1;1,5;0,5;0;55;0,328477318;;-
+2-methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one;71868-10-5;400-600-6;PRO-113;CC(C)(N1CCOCC1)C(=O)c1ccc(SC)cc1;NS00003224;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;214;;;;2,5;;;"Repr. 1B
+Acute Tox. 4 *
+Aquatic Chronic 2
+";0,897878211;;;;0,414213562;;;1;;0;10000000;7;4;3;1;1,5;0,5;0;5000000;0,901921701;;-
+2-methylpropan-2-ol;75-65-0;200-889-7;PRO-114;CC(C)(C)O;NS00006876;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;29;;;;0,3;0,710133264;21,80918608;"Flam. Liq. 2
+Acute Tox. 4 *
+STOT SE 3
+Eye Irrit. 2
+";0,223931947;;;;0,764651037;0,709728846;0,150581419;0;;1000000;10000000;7;4;3;1;1,5;2;0;5500000;0,986712311;;0,71
+2-nitrotoluene;88-72-2;201-853-3;PRO-115;Cc1ccccc1N(=O)=O;NS00005656;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;66;;;;1,9;0,428340159;30,47475408;"Carc. 1B
+Muta. 1B
+Repr. 2
+Acute Tox. 4 *
+Aquatic Chronic 2
+";0,540643582;;;;0,517321745;0,748267136;0,239012422;1;;0;100;7;4;0;1;1,5;0,5;0;50;0,266568572;;0,43
+2-phenylbenzimidazole-5-sulfonic acid;27503-81-7;248-502-0;PRO-116;C1=CC=C(C=C1)C2=NC3=C(N2)C=C(C=C3)S(=O)(=O)O;NS00010386;-;;;;;;;0,828224737;25,01985458;-;;;;;;0,692580821;0,18313256;0,1;;;;7;4;3;1;1,5;2;0;;;;0,83
+2-Phenylphenol;90-43-7;201-993-5;PRO-117;C1=CC=C(C=C1)C2=CC=CC=C2O;NS00010901;-;;;;;;;0,364640231;18,72344262;"STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+Aquatic Acute 1
+";;;;;;0,756492525;0,120167759;0;;;;7;4;3;1;1,5;0,5;0;;;;0,36
+2R,3R,4R,5R,8R,10R,11R,13S,14R)-11-[(2S,3R,4S,6R)-4-dimethylamino-3-hydroxy-6-methyl-oxan-2-yl]oxy-2-ethyl-3,4,10-trihydroxy-13-[(2S,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyl-oxan-2-yl]oxy-3,5,6,8,10,12,14-heptamethyl-1-oxa-6-azacyclopentadecan-15-one;83905-01-5;617-500-5;PRO-118;CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;12351;;;;;0,555824567;802,9122521;-;0,999889105;;;;;0,73126028;0,988275755;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,56
+3-({[(4-methylphenyl)sulfonyl]carbamoyl}amino)phenyl 4-methylbenzenesulfonate;232938-43-1;432-520-2;PRO-119;CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC2=CC(=CC=C2)OS(=O)(=O)C3=CC=C(C=C3)C;NS00004605;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;727;;;;2,2;;;"Aquatic Chronic 2
+";0,986136236;;;;0,465398039;;;0;;100;10000000;7;4;3;1;1,5;2;0,5;5000050;1,008030698;;-
+3-(4-methyl-1H-imidazol-1-yl)-5-(trifluoromethyl)aniline;641571-11-1;688-269-6;PRO-120;C(F)(F)(F)c1cc(N)cc(n2cc(C)nc2)c1;NS00009975;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;212;;;;;;;-;0,89639694;;;;;;;0,1;;0;0;3;1;0;1;1,5;2;0;0;;;-
+3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooct-1-ene;25291-17-2;246-791-8;PRO-121;FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C=C;NS00011085;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;3735;;;;2,7;0,112397762;1002,888939;-;0,999143896;;;;0,381024261;0,787242978;0,991953898;0,1;;10;100;3;4;3;1;0,5;0,5;0;55;0,231866342;;0,11
+3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctanesulphonic acid;27619-97-2;248-580-6;PRO-122;C(CS(=O)(=O)O)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00010579;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2937;;;;1,3;0,431738028;981,2141731;-;0,998709411;;;;0,618975739;0,747823239;0,991650237;0,1;;10;100;7;4;3;1;0,5;0,5;0;55;0,309155123;;0,43
+3,3'-dichlorobenzidine dihydrochloride;612-83-9;210-323-0;PRO-123;c1cc(c(cc1c1cc(c(cc1)N)Cl)Cl)N;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;508;;;;3,8;0,646224293;95,64756469;-;0,974710473;;;;0,223104613;0,718769441;0,689372861;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,65
+3,3'-sulphonyldianiline;599-61-1;209-967-5;PRO-124;C1=CC(=CC(=C1)S(=O)(=O)C2=CC=CC(=C2)N)N;NS00001251;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;343;;;;1,8;0,613780203;51,71607279;-;0,951677911;;;;0,534601961;0,723292826;0,436841115;0,1;;10;1000;7;4;3;1;0,5;0,5;0;505;0,413963687;;0,61
+3,4-diaminobenzenesulphonic acid;7474-78-4;231-274-1;PRO-125;Nc1ccc(S(=O)(=O)O)cc1N;NS00002363;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;280;;;;;0,87271899;30,24377472;-;0,93298097;;;;;0,685975661;0,236654788;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,87
+3,4-dichloroaniline;95-76-1;202-448-4;PRO-126;c1cc(c(cc1N)Cl)Cl;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;133;;;;2,3;0,432588513;61,35405879;"Acute Tox. 3 *
+Acute Tox. 3 *
+Acute Tox. 3 *
+Eye Dam. 1
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,795886243;;;;0,448200481;0,747712051;0,509536534;1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,43
+3,4-dichlorobut-1-ene;760-23-6;212-079-0;PRO-127;C=CC(CCl)Cl;NS00002776;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;41;;;;;0,455737423;35,28316503;-;0,342778895;;;;;0,744673215;0,287481868;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,46
+3,5-bis(1,1-dimethylethyl)-4-hydroxy-benzoic acid;13423-73-9;-;PRO-128;CC(C)C1=CC(=CC(=C1O)C(C)C)C(=O)O;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+3,5-diacetamido-2,4,6-triiodobenzoic acid;117-96-4;204-223-6;PRO-129;CC(=O)Nc1c(I)c(NC(=O)C)c(I)c(C(=O)O)c1I;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;;0,687469691;200,0703839;-;;;;;;0,712954463;0,886834457;0,1;;0;0;7;4;0;1;1,5;0,5;0;0;;;0,69
+3:3 fluorotelomer carboxylate;356-27-4;206-602-1;PRO-130;CCOC(=O)C(C(C(F)(F)F)(F)F)(F)F;NS00019000;-;;;;;;;0,418491831;140,7977891;-;;;;;;0,749550789;0,811254037;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+3-[(E)-2-[1-({4-[(2E)-2-[2-(5-carboxy-2-chlorophenyl)hydrazin-1-ylidene]-3-oxobutanamido]-2,5-dimethylphenyl}carbamoyl)-2-oxopropylidene]hydrazin-1-yl]-4-chlorobenzoic acid;74351-78-3;616-083-7;PRO-131;CC(=O)C(N=Nc1cc(ccc1Cl)C(=O)O)C(=O)Nc1cc(C)c(NC(=O)C(N=Nc2cc(ccc2Cl)C(=O)O)C(=O)C)cc1C;NS00009996;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2216;;;;;;;-;0,997912757;;;;;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+3-acetamido-5-amino-4-hydroxybenzenesulphonic acid;40306-75-0;254-879-2;PRO-132;CC(=O)NC1=CC(=CC(=C1O)N)S(=O)(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;95;;;;;0,879591763;29,72900192;-;0,68688056;;;;;0,684948559;0,231394181;0,1;;0;10;3;4;0;1;0,5;0,5;0;5;0,110141021;;0,88
+3-amino-4-methoxybenzanilide;120-35-4;204-388-4;PRO-133;COc1ccc(cc1N)C(=O)Nc1ccccc1;NS00004705;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;58;;;;;0,545397076;46,19241291;-;0,485515283;;;;;0,732678299;0,390053633;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,55
+3-aminobenzenesulphonic acid;121-47-1;204-473-6;PRO-134;Nc1cccc(S(=O)(=O)O)c1;NS00020466;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;119;;;;;0,825994573;21,78792345;"Acute Tox. 4 *
+Acute Tox. 4 *
+Acute Tox. 4 *
+";0,763260194;;;;;0,69290985;0,150368261;0;;0;10;7;4;0;1;0,5;0,5;0;5;0,159092585;;0,83
+3-aminomethyl-3,5,5-trimethylcyclohexylamine;2855-13-2;220-666-8;PRO-135;CC1(C)CC(N)CC(C)(CN)C1;NS00010871;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;;0,56943498;45,38846927;"Acute Tox. 4
+Skin Corr. 1B
+Eye Dam. 1
+Skin Sens. 1A
+";0,998300918;;;;;0,729402279;0,382936804;0;;10000;100000;7;4;3;1;1,5;0,5;0,5;55000;0,695281273;;0,57
+3-bromo-5-chlorophenol;56962-04-0;611-435-6;PRO-136;Oc1cc(Cl)cc(Br)c1;NS00002535;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;50;;;;;;;-;0,422704538;;;;;;;0,1;;0;0;3;1;0;3;0,5;0,5;0;0;;;-
+3-chloroaniline;108-42-9;203-581-0;PRO-137;C1=CC(=CC(=C1)Cl)N;NS00001502;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;1,6;0,509806775;35,34516776;-;;;;;0,568874072;0,737482233;0,288097069;0,1;;0;10;7;1;0;1;0,5;0,5;0;5;0,122378912;;0,51
+3-hydroxy-4'-methoxy-2-naphthanilide;92-79-5;202-190-2;PRO-138;COc1ccc(NC(=O)c2cc3ccccc3cc2O)cc1;NS00009994;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;45;;;;;0,272911196;41,37155912;-;0,379470626;;;;;0,768013251;0,346261681;0,1;;0;10;7;4;0;1;0,5;0,5;0,5;5;0,165211531;;0,27
+3-isocyanatomethyl-3,5,5-trimethylcyclohexyl isocyanate;4098-71-9;223-861-6;PRO-139;CC1(CC(CC(C1)(C)CN=C=O)N=C=O)C;NS00011466;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;74;;;;;0,186801659;62,47734718;"Acute Tox. 3 *
+STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+Resp. Sens. 1
+Skin Sens. 1
+Aquatic Chronic 2
+";0,588682028;;;;;0,77847705;0,517284596;0;;10000;100000;7;4;3;1;1,5;0,5;0,5;55000;0,695281273;;0,19
+3-methylindole;83-34-1;201-471-7;PRO-140;Cc1c[nH]c2ccccc12;NS00013192;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2500;;;;;0,455737423;21,33783877;-;0,998300918;;;;;0,744673215;0,145865989;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,46
+3-oxopregn-4-ene-21,17?-carbolactone;976-70-5;213-552-4;PRO-141;CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC12CCC(=O)O1;NS00008961;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;184;;;;;0,380468602;126,1034808;-;0,871654055;;;;;0,754465785;0,780700578;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;-
+3-perfluoro-methoxypropanoic acid;377-73-1;-;PRO-142;C(=O)(C(C(OC(F)(F)F)(F)F)(F)F)O;NS00002613;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+4-(1,1,3,3-tetramethylbutyl)phenol;140-66-9;205-426-2;PRO-143;CC(C)(C)CC(C)(C)c1ccc(cc1)O;NS00008649;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;60;;41;20;4;0,198617308;52,25355976;"Skin Irrit. 2
+Eye Dam. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,5;;0,342778895;0,022839036;0,2;0,777061463;0,441194183;1;;10000;100000;7;4;3;1;1,5;2;0;55000;0,735011631;;0,2
+4-(1-phenylethyl)benzene-1,3-diol;85-27-8;480-070-0;PRO-144;CC(C1=CC=CC=C1)C2=C(C=C(C=C2)O)O;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;45;;;;2;;;-;0,379470626;;;;0,5;;;0,1;;10;100;7;4;3;1;1,5;2;0;55;0,357460611;;-
+4-(2-hydroxypropan-2-yl)-2-propyl-1-{[2'-(1H-tetrazol-5-yl)biphenyl-4-yl]methyl}-1H-imidazole-5-carboxylic acid;144689-24-7;646-413-5;PRO-145;c1(c2c(c3ccc(Cn4c(C(=O)O)c(C(C)(C)O)nc4CCC)cc3)cccc2)nnn[nH]1;NS00008999;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;310;;;;;;;-;0,943074767;;;;;;;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;-
+4-(4-((((4-CHLORO-3-(TRIFLUOROMETHYL)PHENYL)AMINO)CARBONYL)AMINO)PHENOXY)-N-METHYL-2-PYRIDINECARBOXAMIDE;284461-73-0;608-209-4;PRO-146;CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F)cc2)ccn1;NS00005946;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;187;1;;;;-;;;0,874715439;0,000139484;;;;0,1;;10;100;3;4;3;1;0,5;0,5;0;55;0,231866342;;-
+4-(5,5,6-trimethylbicyclo[2.2.1]hept-2-yl)cyclohexan-1-ol;66068-84-6;266-100-3;PRO-147;CC1C2CC(C1(C)C)CC2C3CCC(CC3)O;NS00005733;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;28;;;;;0,2537961;32,1292265;-;0,213679536;;;;;0,770365526;0,25583617;0,1;;10;1000;7;4;3;1;1,5;2;0;505;0,478645514;;0,25
+4-(?,?-dimethylbenzyl)phenol;599-64-4;209-968-0;PRO-148;CC(C)c1ccccc1c1ccc(cc1)O;NS00009362;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;53;;;;3,4;0,278851408;33,95291079;-;0,447180457;;;;0,274799575;0,767278842;0,274214394;0,1;;0;1000;3;4;0;1;0,5;0,5;0;500;0,23259;;0,28
+4,4',4''-(ethan-1,1,1-triyl)triphenol;27955-94-8;405-800-7;PRO-149;CC(c1ccc(O)cc1)(c1ccc(O)cc1)c1ccc(O)cc1;NS00019386;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;73;;;;2,2;;;"Aquatic Chronic 2
+";0,583038809;;;;0,465398039;;;0;;0;10000000;3;1;0;1;0,5;0,5;0;5000000;0,318325306;;-
+"4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphenol; bisphenol AF";1478-61-1;216-036-7;PRO-150;Oc1ccc(cc1)C(c1ccc(O)cc1)(C(F)(F)F)C(F)(F)F;NS00011437;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;913;;;;3,4;0,231467084;400,8370036;-;0,990566022;;;;0,274799575;0,773092034;0,962555124;0,1;;10;1000;7;4;3;1;0,5;0,5;0;505;0,413963687;;0,23
+4,4'-bis(dimethylamino)-4''-(methylamino)trityl alcohol;561-41-1;209-218-2;PRO-151;CNc1ccc(C(O)(c2ccc(N(C)C)cc2)c2ccc(N(C)C)cc2)cc1;NS00008275;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;2500;;;;3,4;0,368244878;281,151586;-;0,998300918;;;;0,274799575;0,756031968;0,933418361;0,1;;10;100;7;4;3;1;1,5;0,5;0,5;55;0,338138415;;0,37
+4,4'-bis[(4,6-bis{[3-(diethylamino)propyl]amino}-1,3,5-triazin-2-yl)amino]-1,1'-bianthracene-9,9',10,10'-tetrone;157367-45-8;941-814-4;PRO-152;CCN(CC)CCCNc1nc(Nc2c3C(=O)c4ccccc4C(=O)c3c(cc2)c2c3C(=O)c4ccccc4C(=O)c3c(Nc3nc(NCCCN(CC)CC)nc(NCCCN(CC)CC)n3)cc2)nc(NCCCN(CC)CC)n1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;;;;-;;;;;;;;0,1;;1;10;3;4;3;1;1,5;0,5;0;5,5;0,162753163;;-
+4,4'-diaminostilbene-2,2'-disulphonic acid;81-11-8;201-325-2;PRO-153;C1=CC(=C(C=C1N)S(=O)(=O)O)C=CC2=C(C=C(C=C2)N)S(=O)(=O)O;NS00073857;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1483;;;;;0,806398194;50,2638686;-;0,995861272;;;;;0,695792559;0,424901793;0,1;;0;0;3;4;0;1;0,5;0,5;0,5;0;;;0,81
+4,4'-Dihydroxybiphenyl;92-88-6;202-200-5;PRO-154;C1=CC(=CC=C1C2=CC=C(C=C2)O)O;NS00002875;-;;;;;;;0,363597055;18,76000453;-;;;;;;0,756625699;0,120520803;0,1;;;;7;4;3;1;1,5;0,5;0;;;;0,36
+4,4'-methylenebis(N-sec-butylcyclohexanamine);154279-60-4;679-514-8;PRO-155;CCC(C)NC1CCC(CC1)CC2CCC(CC2)NC(C)CC;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;88;;;;;;;-;0,65807547;;;;;;;0,1;;10;100;7;4;3;1;1,5;0,5;0;55;0,328477318;;-
+4,4'-oxydianiline;101-80-4;202-977-0;PRO-156;c1cc(ccc1N)Oc1ccc(cc1)N;NS00002329;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;107;;;;1,7;0,553496036;47,09320763;"Carc. 1B
+Muta. 1B
+Repr. 2
+Acute Tox. 3 *
+Acute Tox. 3 *
+Acute Tox. 3 *
+Aquatic Chronic 2
+";0,728875616;;;;0,551799519;0,731577346;0,397936466;1;;10;100;7;4;3;1;0,5;0,5;0;55;0,309155123;;0,55
+4,4'-Sulfonyldiphenol (Bisphenol S);80-09-1;201-250-5;PRO-157;C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O;NS00010610;-;;;;;;;0,466208677;24,72388128;Repr. 1B;;;;;;0,743290743;0,1801089;1;;;;7;4;3;1;1,5;0,5;0,5;;;;0,47
+4,8-dioxa-3H-perfluorononanoic acid;958445-44-8;-;PRO-158;C(C(C(=O)[O-])(F)F)(OC(C(C(OC(F)(F)F)(F)F)(F)F)(F)F)F.[NH4+];-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+4:2 fluorotelomer sulfonic acid;757124-72-4;816-391-3;PRO-159;C(CS(=O)(=O)O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F;NS00011094;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+4-[(2,4-dichloro-5-methoxyphenyl)amino]-6-methoxy-7-[3-(4-methylpiperazin-1-yl)propoxy]quinoline-3-carbonitrile;380843-75-4;700-455-1;PRO-160;COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;3183;;;;;;;-;0,998875027;;;;;;;0,1;;0;10;3;1;3;1;0,5;0,5;0;5;0,110141021;;-
+4-[[(2-aminophenyl)methyl]amino]cyclohexyl acetate;93839-71-5;298-842-9;PRO-161;CC(=O)OC1CCC(CC1)NCc1ccccc1N;NS00008566;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;48;;;;;0,541768521;30,62971952;-;0,405773263;;;;;0,733170624;0,240593102;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,54
+4-[4-({[4-chloro-3-(trifluoromethyl)phenyl]carbamoyl}amino)-3-fluorophenoxy]-N-methylpyridine-2-carboxamide hydrochloride;835621-07-3;692-722-3;PRO-162;CNC(=O)c1nccc(Oc2cc(F)c(NC(=O)Nc3cc(c(Cl)cc3)C(F)(F)F)cc2)c1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;3305;;;;;;;-;0,998945011;;;;;;;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;-
+4-amino-2,5-dimethoxy-N-methylbenzenesulphonamide;49701-24-8;256-435-3;PRO-163;CNS(=O)(=O)c1cc(OC)c(N)cc1OC;NS00006391;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;57;;;;;0,635311592;49,43726272;-;0,478092419;;;;;0,720295916;0,417990038;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,64
+4-amino-5-hydroxynaphthalene-2,7-disulphonic acid;90-20-0;201-975-7;PRO-164;Nc1cc(S(=O)(=O)O)cc2cc(S(=O)(=O)O)cc(O)c12;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;376;;;;;0,820936567;27,76688198;-;0,958408223;;;;;0,69365536;0,211287953;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,82
+4-amino-N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide;129909-90-6;603-373-3;PRO-165;CC(C)c1nn(C(=O)NC(C)(C)C)c(=O)n1N;NS00001668;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2500;;;;1,4;;;-;0,998300918;;;;0,602498941;;;0,1;;0;10;7;4;3;1;0,5;0,5;0;5;0,195806259;;-
+4-aminophenol;123-30-8;204-616-2;PRO-166;Nc1ccc(O)cc1;NS00006730;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;0,5;0,652269727;19,54451364;"Muta. 2
+Acute Tox. 4 *
+Acute Tox. 4 *
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,998300918;;;;0,738796125;0,717921623;0,128143597;1;;0;10000000;7;4;0;1;1,5;2;0;5000000;0,822340375;;0,65
+4-aminotoluene-3-sulphonic acid;88-44-8;201-831-3;PRO-167;Cc1ccc(N)c(S(=O)(=O)O)c1;NS00001366;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;113;;;;;0,793580805;26,78263313;-;0,746909065;;;;;0,697669786;0,201189539;0,1;;10;100;3;4;3;1;0,5;0,5;0;55;0,231866342;;0,79
+4-chloro-2,5-dimethoxyaniline;6358-64-1;228-782-0;PRO-168;COc1cc(c(cc1N)OC)Cl;NS00008793;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;47;;;;;0,490435736;57,45019255;-;0,397125317;;;;;0,740073424;0,481449122;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,49
+4-chloro-2-nitroaniline;89-63-4;201-925-4;PRO-169;Nc1ccc(Cl)cc1N(=O)=O;NS00003462;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;270;;;;;0,393011112;59,7360061;-;0,928987363;;;;;0,752851721;0,498115441;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,39
+4-chloroaniline;106-47-8;203-401-0;PRO-170;C1=CC(=CC=C1N)Cl;NS00010861;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;78;;;;1,5;0,514603922;35,34516776;"Carc. 1B
+Acute Tox. 3 *
+Acute Tox. 3 *
+Acute Tox. 3 *
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,610286026;;;;0,585786438;0,736837972;0,288097069;1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,51
+4-chloro-N-cyclopentylbenzylamine;66063-15-8;266-097-9;PRO-171;Clc1ccc(cc1)CNC1CCCC1;NS00003647;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;59;;;;;0,664213065;38,87542061;-;0,492817504;;;;;0,716242124;0,322589294;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,66
+4-chloro-o-cresol;1570-64-5;216-381-3;PRO-172;Cc1cc(Cl)ccc1O;NS00007230;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;29;;;;2,2;0,392597808;30,04383695;"Acute Tox. 3 *
+Skin Corr. 1A
+Aquatic Acute 1
+";0,223931947;;;;0,465398039;0,752905022;0,234612547;0;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,39
+4-chlorophenyl isocyanate;104-12-1;203-176-9;PRO-173;c1cc(ccc1N=C=O)Cl;NS00006206;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;46;;;;;0,362955737;30,38570784;"Acute Tox. 2 *
+Acute Tox. 4 *
+STOT SE 3
+Skin Irrit. 2
+Eye Dam. 1
+Resp. Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,388357284;;;;;0,756707547;0,238103737;1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,36
+4-fluoroaniline;371-40-4;206-735-5;PRO-174;c1cc(ccc1N)F;NS00010860;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;211;1,7;0,579110984;48,67170261;-;;;;0,567496346;0,551799519;0,728076474;0,411514098;0,1;;0;10;7;1;0;1;0,5;0,5;0;5;0,122378912;;0,58
+4-isopropylaniline;99-88-7;202-797-2;PRO-175;CC(C)c1ccc(cc1)N;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;65;;;;1,7;0,451494101;28,24767968;-;0,534155203;;;;0,551799519;0,745232047;0,216220047;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,45
+4-mesyl-2-nitrotoluene;1671-49-4;430-550-0;PRO-176;c1(C)c(N(=O)=O)cc(S(=O)(=O)C)cc1;NS00019649;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2500;;;;2,3;;;"Repr. 2
+Acute Tox. 4 *
+Skin Sens. 1
+Aquatic Chronic 3
+";0,998300918;;;;0,448200481;;;0,5;;0;10000000;3;4;3;1;0,5;0,5;0;5000000;0,636650613;;-
+4-methanesulfonyl-2-nitrobenzoic acid;110964-79-9;601-017-1;PRO-177;O=S(=O)(C)c1cc(c(cc1)C(=O)O)N(=O)=O;NS00002292;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;62;;;;;;;-;0,514009975;;;;;;;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;-
+4-Methyl-1H-benzotriazole;29878-31-7;249-921-1;PRO-178;CC1=CC=CC2=NNN=C12;NS00010509;-;;;;;;;0,509720164;21,51758556;-;;;;;;0,737493855;0,14766173;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,51
+4-methylpent-1-ene;691-37-2;211-720-1;PRO-179;CC(C)CC=C;NS00003382;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;22;;;;2,3;0,385497069;15,05444898;-;0,152496117;;;;0,448200481;0,753819539;0,085983619;0,1;;0;10000000;3;1;0;1;0,5;0,5;0;5000000;0,318325306;;0,39
+4-methylthiosemicarbazide;6610-29-3;229-563-2;PRO-180;CNC(=S)NN;NS00007927;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;52;;;;;0,734155087;18,31878542;-;0,43914506;;;;;0,706286639;0,116274356;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;0,73
+4-nitrotoluene;99-99-0;202-808-0;PRO-181;CC1=CC=C(C=C1)[N+](=O)[O-];NS00001022;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;66;;;;;0,421784704;30,47475408;"Acute Tox. 3 *
+Acute Tox. 3 *
+Acute Tox. 3 *
+STOT RE 2 *
+Aquatic Chronic 2
+";0,540643582;;;;;0,749122074;0,239012422;0,5;;0;100;7;4;0;1;1,5;0,5;0;50;0,266568572;;0,42
+4-nitrotoluene-2-sulphonic acid;121-03-9;204-445-3;PRO-182;CC1=C(C=C(C=C1)[N+](=O)[O-])S(=O)(=O)O;NS00003565;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;;0,710931621;32,60913314;-;0,998300918;;;;;0,709614829;0,26069138;0,1;;0;10000;7;4;0;1;1,5;2;0,5;5000;0,522336871;;0,71
+4-vinylcyclohexene;100-40-3;202-848-9;PRO-183;C=CC1CCC=CC1;NS00008744;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;22;;;;2,4;0,273365319;16,69756055;"Carc. 2
+";0,152496117;;;;0,431125928;0,767957164;0,10095983;0;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,27
+5,5'-(1H-isoindole-1,3(2H)-diylidene)dibarbituric acid;36888-99-0;253-256-2;PRO-184;C1=CC=C2C(=C1)C(=C3C(=O)NC(=O)NC3=O)N=C2C4=C(NC(=O)NC4=O)O;NS00005431;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;;0,821567429;48,64322588;-;0,998300918;;;;;0,693562431;0,41127183;0,1;;1000;1000;7;4;3;1;1,5;2;0,5;1000;0,529931973;;-
+5,5-dimethylhydantoin;77-71-4;201-051-3;PRO-185;CC1(C(=O)NC(=O)N1)C;NS00005012;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;;1170;1,8;0,72190066;27,5241907;-;;;;0,96082927;0,534601961;0,708045617;0,208797884;0,1;;10;1000;7;4;3;1;0,5;0,5;0;505;0,413963687;;-
+5,6-Dimethyl-1H-benzotriazole;4184-79-6;224-058-3;PRO-186;CC1=CC2=NNN=C2C=C1C;-;-;;;;;;;0,457113187;26,45548293;-;;;;;;0,744491859;0,197834116;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,46
+5:3 fluorotelomer carboxylate;914637-49-3;811-572-3;PRO-187;C(CC(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)C(=O)O;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+5-aminonaphthalene-2-sulphonic acid;119-79-9;204-351-2;PRO-188;Nc1cccc2cc(S(=O)(=O)O)ccc12;NS00004034;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;171;;;;;0,749120081;27,03460316;-;0,856976758;;;;;0,704130221;0,203774505;0,1;;0;10;7;1;0;1;0,5;0,5;0;5;0,122378912;;-
+5-Chlorobenzotriazole;94-97-3;202-378-4;PRO-189;C1=CC2=NNN=C2C=C1Cl;NS00009697;-;;;;;;;0,500138629;30,38570784;-;;;;;;0,738777581;0,238103737;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+5-Methyl-1H-benzotriazole;136-85-6;205-265-8;PRO-190;CC1=CC2=NNN=C2C=C1;NS00008943;-;;;;;;;0,509720164;21,51758556;-;;;;;;0,737493855;0,14766173;0,1;;;;3;4;3;1;0,5;0,5;0;;;;0,51
+6:2 fluorotelomer carboxylic acid;53826-12-3 ;-;PRO-191;C(C(=O)O)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+6:2 fluorotelomer phosphate diester;57677-95-9;-;PRO-192;C(COP(=O)(O)OCCC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+6-amino-4-hydroxynaphthalene-2-sulphonic acid;90-51-7;202-000-8;PRO-193;Nc1ccc2cc(S(=O)(=O)O)cc(O)c2c1;NS00009937;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;147;;;;;0,761757374;25,94944479;-;0,822280132;;;;;0,702302089;0,192646812;0,1;;0;10;7;1;0;1;0,5;0,5;0;5;0,122378912;;0,76
+6-methoxy-m-toluidine;120-71-8;204-419-1;PRO-194;COc1ccc(C)cc1N;NS00011442;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;29;;;;;0,513530395;31,91059843;"Carc. 1B
+Acute Tox. 4 *
+";0,223931947;;;;;0,736982236;0,253620275;0,5;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,51
+6-methyl-1,3,5-triazine-2,4-diyldiamine;542-02-9;208-796-3;PRO-195;Cc1nc(nc(n1)N)N;NS00003170;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2500;;;;;0,684109093;56,85925233;-;0,998300918;;;;;0,713430937;0,477037936;0,1;;0;10;3;1;3;1;0,5;0,5;0;5;0,110141021;;0,68
+6-methyl-2-pyridinemethanol;1122-71-0;214-358-2;PRO-196;CC1=NC(=CC=C1)CO;NS00015806;-;;;;;;;0,677678413;22,90813704;-;;;;;;0,714341374;0,161649342;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+6-phenyl-1,3,5-triazine-2,4-diyldiamine;91-76-9;202-095-6;PRO-197;C1=CC=C(C=C1)C2=NC(=NC(=N2)N)N;NS00005541;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;1,4;0,584069909;61,509855;"Acute Tox. 4 *
+Aquatic Chronic 3
+";0,998300918;;;;0,602498941;0,727395427;0,510619957;0;;1000;1000;7;4;3;1;1,5;0,5;0,5;1000;0,488095238;;0,58
+7:3 fluorotelomer carboxylate;812-70-4;696-430-7;PRO-198;C(CC(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C(=O)O;NS00008860;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+7-[[2-[(aminocarbonyl)amino]-4-[(4-amino-6-chloro-1,3,5-triazin-2-yl)amino]phenyl]azo]naphthalene-1,3,6-trisulphonic acid;35642-64-9;252-652-2;PRO-199;NC(=O)Nc1cc(Nc2nc(N)nc(Cl)n2)ccc1N=Nc1cc2c(cc(cc2cc1S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;3760;;;;1;;;-;0,999153596;;;;0,666666667;;;0,1;;0;10;7;1;3;1;0,5;0,5;0;5;0,159092585;;-
+7-amino-4-hydroxynaphthalene-2-sulphonic acid;87-02-5;201-718-9;PRO-200;Nc1ccc2c(c1)cc(S(=O)(=O)O)cc2O;NS00007596;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;147;;;;;0,761757374;25,94944479;-;0,822280132;;;;;0,702302089;0,192646812;0,1;;0;10;7;4;0;1;0,5;0,5;0;5;0,159092585;;0,76
+7H-perfluoroheptanoic acid;1546-95-8;216-283-0;PRO-201;C(C(C(C(C(C(C(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00009073;-;;;;;;;0,480290181;181,0171259;-;;;;;;0,741423917;0,868495674;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+8:2 chlorinated perfluoroalkylether sulfonate;83329-89-9;-;PRO-202;C(C(C(C(C(F)(F)Cl)(F)F)(F)F)(F)F)(C(C(C(OC(C(F)(F)S(=O)(=O)[O-])(F)F)(F)F)(F)F)(F)F)(F)F.[K+];-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+8:2 fluorotelomer carboxylic acid;27854-31-5;-;PRO-203;C(C(=O)O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00011081;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+8:2 fluorotelomer phosphate diester;678-41-1;211-649-6;PRO-204;C(COP(=O)(O)OCCC(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;0,01860211;1816744,676;-;;;;;;0,797928978;0,999999978;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+8:2 fluorotelomer sulfonic acid;39108-34-4;254-295-8;PRO-205;C(CS(=O)(=O)O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00011092;-;;;;;;;0,312485633;3455,288918;-;;;;;;0,76309003;0,999022165;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,31
+8:2 Fluorotelomerically unsaturated carboxylic acid;70887-84-2;-;PRO-206;C(=C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)F)C(=O)O;NS00011100;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Acenaphthene;83-32-9;201-469-6;PRO-207;C1Cc2cccc3c2c1ccc3;NS00006748;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;134;;3,4;0,274551004;27,26765758;-;;;0,797958615;;0,274799575;0,767810678;0,206165694;0,1;;0;0;3;4;0;1;1,5;0,5;0;0;;;0,27
+Acetic acid, 2,2-difluoro-2-[[2,2,4,5-tetrafluoro-5-(trifluoromethoxy)-1,3-dioxolan-4-yl]oxy]-, ammonium salt (1:1);1190931-41-9;682-238-0;PRO-208;C(=O)(C(OC1(C(OC(O1)(F)F)(OC(F)(F)F)F)F)(F)F)[O-].[NH4+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;18579;;;;1;;;-;0,999944817;;;;0,666666667;;;0,1;;10;100;3;1;3;1;0,5;0,5;0;55;0,173899756;;-
+Allyl 2,3-epoxypropyl ether;106-92-3;203-442-4;PRO-209;C=CCOCC1CO1;NS00002883;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;95;;;;0,3;0,667774778;17,72122279;"Flam. Liq. 3
+Carc. 2
+Muta. 2
+Repr. 2
+Acute Tox. 4 *
+Acute Tox. 4 *
+STOT SE 3
+Skin Irrit. 2
+Eye Dam. 1
+Skin Sens. 1
+Aquatic Chronic 3
+";0,68688056;;;;0,764651037;0,715740101;0,110574275;0,5;;10;1000;3;4;3;1;0,5;0,5;0;505;0,310472766;;0,67
+Ametryn;834-12-8;212-634-7;PRO-210;CCNC1=NC(=NC(=N1)SC)NC(C)C;NS00000481;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;150;1780;2,1;0,437477838;76,33673574;"Acute Tox. 4 *
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;0,82727113;0,980491321;0,482678255;0,747072213;0,601487513;1;;1000;1000;7;1;3;1;0,5;0,5;0;1000;0,362585034;;0,44
+Ammonium 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate;62037-80-3;700-242-3;PRO-211;C(=O)(C(C(F)(F)F)(OC(C(C(F)(F)F)(F)F)(F)F)F)O;-;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;;;1,1;;;-;;;;;0,65108968;;;0,1;;10;100;3;4;3;1;0,5;0,5;0;55;0,231866342;;-
+Ammonium difluoro[1,1,2,2-tetrafluoro-2-(pentafluoroethoxy)ethoxy]acetate;908020-52-0;700-323-3;PRO-212;C(=O)(C(OC(C(OC(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;4214;;;;;;;-;0,999303356;;;;;;;0,1;;10;100;3;4;3;1;0,5;0,5;0;55;0,231866342;;-
+Ammonium undecafluorohexanoate;21615-47-4;244-479-6;PRO-213;C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O.N;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1048;;;;1,8;0,662386395;621,4785853;-;0,992532544;;;;0,534601961;0,716499385;0,98195048;0,1;;10;100;3;1;3;1;0,5;0,5;0;55;0,173899756;;0,66
+Amoxicillin;26787-78-0;248-003-8;PRO-214;CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;48;;;;;0,709876372;39,66446659;-;0,405773263;;;;;0,709765529;0,330140953;0,1;;10;1000;7;4;3;1;0,5;0,5;0;505;0,413963687;;0,71
+Anthracene;120-12-7;204-371-1;PRO-215;c1ccc2cc3ccccc3cc2c1;NS00010699;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;;;3,9;0,215767952;70,82715093;-;;;;;0,211321241;0,774995255;0,570429632;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,22
+Atrazine;1912-24-9;217-617-8;PRO-216;CCNc1nc(nc(n1)Cl)NC(C)C;-;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;248;;;;1,4;0,472630742;108,6209557;"STOT RE 2 *
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,918784123;;;;0,602498941;0,742440447;0,733925031;1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,47
+Benzamide, 4-[(4-methyl-1-piperazinyl)methyl]-N-[4-methyl-3-[[4-(3-pyridinyl)-2-pyrimidinyl]amino]phenyl]-;152459-95-5;604-855-6;PRO-217;CN1CCN(CC1)Cc1ccc(cc1)C(=O)Nc1ccc(C)c(Nc2nccc(n2)c2cccnc2)c1;NS00009172;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;3664;;;;;;;-;0,999115367;;;;;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+Benzidine-2,2'-disulphonic acid;117-61-3;204-200-0;PRO-218;Nc1ccc(c2ccc(N)cc2S(=O)(=O)O)c(S(=O)(=O)O)c1;NS00002417;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;;0,833523083;44,93036181;-;;;;;;0,69179834;0,378847401;0,1;;0;10;3;1;3;1;0,5;0,5;0;5;0,110141021;;0,83
+Benzoic acid;65-85-0;200-618-2;PRO-219;C1=CC=C(C=C1)C(=O)O;-;-;;;;;;;0,636771763;14,30990537;"STOT RE 1
+Skin Irrit. 2
+Eye Dam. 1
+";;;;;;0,720091961;0,079409244;1;;;;7;4;3;1;1,5;2;0,5;;;;-
+Benzophenone;119-61-9;204-337-6;PRO-220;C1=CC=C(C=C1)C(=O)C2=CC=CC=C2;NS00010632;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;35;;;;2,7;0,352129401;22,03155132;Carc. 1B;0,284668525;;;;0,381024261;0,758086425;0,15281302;0,5;;0;10000;7;4;0;1;1,5;2;0,5;5000;0,522336871;;0,35
+Benzothiazole;95-16-9;202-396-2;PRO-221;C1=CC=C2C(=C1)N=CS2;NS00000291;-;;;;;;;0,544228191;18,76000453;-;;;;;;0,732836957;0,120520803;0,1;;;;3;4;3;1;0,5;0,5;0;;;;0,54
+Benzothiazole-2-sulfonic acid;941-57-1;825-261-5;PRO-222;C1=CC=C2C(=C1)N=C(S2)S(=O)(=O)O;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Benzotriazole;95-14-7;202-394-1;PRO-223;C1=CC2=NNN=C2C=C1;NS00010261;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;95;;;;1,5;0,535550348;17,50475783;-;0,68688056;;;;0,585786438;0,734012969;0,108524807;0,1;;0;10000;7;4;0;1;1,5;2;0,5;5000;0,522336871;;0,54
+"benzovindiflupyr (ISO); N-[9-(dichloromethylene)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl]-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide";1072957-71-1;691-719-4;PRO-224;Cn1cc(C(=O)Nc2cccc3c2[C@@H]2CC[C@H]3C2=C(Cl)Cl)c(n1)C(F)F;NS00007313;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;1000;;3,7;;;"Acute Tox. 3
+Acute Tox. 3
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;0,991914442;;0,235348963;;;1;;0;10;7;1;3;1;0,5;0,5;0;5;0,159092585;;-
+Benzyl butyl phthalate;85-68-7;201-622-7;PRO-225;CCCCOC(=O)C1=CC=CC=C1C(=O)OCC2=CC=CC=C2;NS00009734;-;;;;;;;0,273392857;12,47358925;"Repr. 1B
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;;0,767953762;0,063853391;1;;;;7;4;3;1;1,5;2;0,5;;;;0,27
+Benzyl(3-hydroxyphenacyl)methylammonium chloride;71786-67-9;276-017-4;PRO-226;C(=O)(c1cc(O)ccc1)CN(C)Cc1ccccc1;NS00076492;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;56;;;;;0,622647043;33,03815045;-;0,470548111;;;;;0,722061073;0,265020793;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,62
+Benzyltrimethylammonium chloride;56-93-9;200-300-3;PRO-227;C[N+](C)(C)CC1=CC=CC=C1.[Cl-];NS00077217;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;;0,728228907;19,26063527;-;0,998300918;;;;;0,707138045;0,125375053;0,1;;10;1000;7;4;3;1;0,5;0,5;0;505;0,413963687;;-
+Bis(2-(2-methoxyethoxy)ethyl) ether;143-24-8;205-594-7;PRO-228;COCCOCCOCCOCCOC;NS00010103;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1289;;;;1,5;0,810604912;29,71740493;"Repr. 1B
+";0,994746249;;;;0,585786438;0,695175017;0,231275577;1;;100;10000000;7;4;3;1;1,5;0,5;0,5;5000050;0,928449327;;0,81
+Bis(2-chloroethyl) ether;111-44-4;203-870-1;PRO-229;C(CCl)OCCCl;NS00003159;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;88;;;;1,9;0,577691165;38,78451984;"Carc. 2
+Acute Tox. 1
+Acute Tox. 2 *
+Acute Tox. 2 *
+";0,65807547;;;;0,517321745;0,728271272;0,321715386;0;;0;1000;7;4;0;1;0,5;0,5;0;500;0,335963334;;0,58
+Bis(2-dimethylaminoethyl)(methyl)amine;3030-47-5;221-201-1;PRO-230;CN(C)CCN(C)CCN(C)C;NS00004531;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;;0,750173788;98,21918107;"Acute Tox. 3 *
+Acute Tox. 4 *
+Skin Corr. 1B
+";0,998300918;;;;;0,703978039;0,699000855;0;;1000;1000;7;4;3;1;1,5;0,5;0;1000;0,47414966;;0,75
+Bis(2-ethylhexyl) amine;106-20-7;203-372-4;PRO-231;CCCCC(CC)CNCC(CC)CCCC;NS00010732;-;;;;;;;0,366456778;9,301807321;-;;;;;;0,756260503;0,03966697;0,1;;;;7;4;3;1;1,5;0,5;0;;;;0,37
+Bis(2-methoxyethyl) ether;111-96-6;203-924-4;PRO-232;COCCOCCOC;-;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;38;;;;1,2;0,744875782;19,65156421;"Flam. Liq. 3
+Repr. 1B
+";0,314140244;;;;0,635183106;0,704742746;0,129190481;1;;10;1000;7;4;3;1;0,5;0,5;0,5;505;0,426900053;;0,74
+Bis(4-chlorophenyl) sulphone;80-07-9;201-247-9;PRO-233;c1cc(ccc1S(=O)(=O)c1ccc(cc1)Cl)Cl;NS00003990;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;;1287;3,5;0,317180527;80,87452301;-;;;;0,966521522;0,261203875;0,762501211;0,624896005;0,1;;1000;1000;7;4;3;1;0,5;0,5;0,5;1000;0,460204082;;0,32
+Bis(4-fluorophenyl) ketone;345-92-6;206-466-3;PRO-234;c1cc(ccc1C(=O)c1ccc(cc1)F)F;NS00011109;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1369;;;;;0,320477236;137,1648681;-;0,99525771;;;;;0,762087146;0,804315935;0,1;;1000;1000;3;1;3;1;0,5;0,5;0,5;1000;0,264965986;;0,32
+Bis(?,?-dimethylbenzyl) peroxide;80-43-3;201-279-3;PRO-235;CC(C)c1ccccc1OOc1ccccc1C(C)C;NS00005939;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;139;;;;4;0,127620174;70,53758384;"Org. Perox. F
+Repr. 1B
+Skin Irrit. 2
+Eye Irrit. 2
+Aquatic Chronic 2
+";0,807867162;;;;0,2;0,785470357;0,568712674;1;;10000;100000;7;4;3;1;0,5;0,5;0,5;55000;0,655550914;;0,13
+Bis[hydrogen [4-[4-(diethylamino)-5'-hydroxy-2',4'-disulphonatobenzhydrylidene]cyclohexa-2,5-dien-1-ylidene]diethylammonium], calcium salt;3536-49-0;222-573-8;PRO-236;CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)O)S(=O)(=O)O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;684;;;;;0,797761519;99,74461605;-;0,984636675;;;;;0,697058203;0,704514838;0,1;;0;10;7;4;3;1;1,5;2;0,5;5;0,232519933;;-
+Bisphenol A;80-05-7;201-245-8;PRO-237;CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O;NS00008865;-;;;;;;;0,318834142;34,0192118;"Repr. 1B
+STOT SE 3
+Eye Dam. 1
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1";;;;;;0,76229358;0,274878622;1;;;;7;4;3;1;1,5;2;0,5;;;;0,32
+Butanamide, 2,2'-[(3,3'-dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[3-oxo-, N,N'-bis(4-chloro-2,5-dimethoxyphenyl and 2,4-xylyl) derivs.;90268-24-9;290-824-9;PRO-238;CC1=CC(=C(C=C1)NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC(=C(C=C4OC)Cl)OC)Cl)Cl)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;12894;;;;;0,036683664;6568,689832;-;0,999896968;;;;;0,795900602;0,999673709;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;-
+caprolactam;105-60-2;203-313-2;PRO-239;C1CCC(=O)NCC1;NS00008125;-;;;;;;;0,624745625;18,96237495;"Acute Tox. 4 *
+Acute Tox. 4 *
+STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+";;;;;;0,721769051;0,122478579;0;;;;7;4;3;1;1,5;2;0,5;;;;-
+Carbon tetrachloride;56-23-5;200-262-8;PRO-240;ClC(Cl)(Cl)Cl;NS00005620;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;172;;;;1,9;0,421666376;118,7727929;"Carc. 2
+Acute Tox. 3 *
+Acute Tox. 3 *
+Acute Tox. 3 *
+STOT RE 1
+Aquatic Chronic 3
+Ozone 1
+";0,858194172;;;;0,517321745;0,749137488;0,762669342;1;;1000;1000;3;4;3;1;0,5;0,5;0;1000;0,334693878;;0,42
+Carboxymethyldimethyl-3-[[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)sulphonyl]amino]propylammonium hydroxide;34455-29-3;252-046-8;PRO-241;C[N+](C)(CCCNS(=O)(=O)CCC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)CC(=O)[O-];NS00011051;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;4052;;;;1,3;0,532480128;1306,330732;-;0,999255106;;;;0,618975739;0,734428251;0,994864232;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;0,53
+Chlorhexidine;55-56-1;200-238-7;PRO-242;N=C(NCCCCCCNC(=N)NC(=N)Nc1ccc(Cl)cc1)NC(=N)Nc1ccc(Cl)cc1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2360;;;;3,9;0,412280759;209,0885783;-;0,998125335;;;;0,211321241;0,750358109;0,894180878;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+Chlorobenzene;108-90-7;203-628-5;PRO-243;C1=CC=C(C=C1)Cl;NS00010206;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;28;;;;2,5;0,42021337;24,39330972;"Flam. Liq. 3
+Acute Tox. 4
+Skin Irrit. 2
+Aquatic Chronic 2
+";0,213679536;;;;0,414213562;0,749326714;0,176735812;0;;0;10000000;7;4;0;1;1,5;0,5;0;5000000;0,742759048;;0,42
+Chloroethane;75-00-3;200-830-5;PRO-244;CCCl;NS00019447;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;24;;;;0,8;0,628621287;19,39259505;"Flam. Gas 1
+Press. Gas
+Carc. 2
+Aquatic Chronic 3
+";0,17272887;;;;0,696730455;0,72122925;0,126660608;0;;0;10000000;7;4;0;1;1,5;2;0;5000000;0,822340375;;0,63
+Chloroethylene;75-01-4;200-831-0;PRO-245;C=CCl;NS00008276;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;24;;;;0,9;0,601568946;19,22309767;"Flam. Gas 1
+Press. Gas
+Carc. 1A
+";0,17272887;;;;0,681888;0,724983648;0,12500981;0,5;;0;10000000;7;4;3;1;1,5;0,5;0,5;5000000;0,92844881;;0,6
+Chloroform;67-66-3;200-663-8;PRO-246;ClC(Cl)Cl;NS00007346;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;55;;;;2;0,550187567;48,28395944;"Carc. 2
+Repr. 2
+Acute Tox. 3
+Acute Tox. 4
+STOT RE 1
+Skin Irrit. 2
+Eye Irrit. 2
+";0,462881681;;;;0,5;0,732027438;0,40820687;1;;100000;1000000;7;4;3;1;1,5;0,5;0;550000;0,791062352;;0,55
+Chromate(2-), [2,4-dihydro-4-[(2-hydroxy-4-nitrophenyl)azo]-5-methyl-3H-pyrazol-3-onato(2-)][3-[[4,5-dihydro-3-methyl-1-(4-methylphenyl)-5-oxo-1H-pyrazol-4-yl]azo]-4-hydroxy-5-nitrobenzenesulfonato(3-)]-, disodium;75199-08-5;278-113-1;PRO-247;CC1=CC=C(C=C1)N2C(=O)C(=C(N2)C)N=NC3=C(C(=CC(=C3)S(=O)(=O)O)[N+](=O)[O-])O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;6950;;;;;;;-;0,999703705;;;;;;;0,1;;0;10;7;4;3;3;1,5;2;0,5;5;0,256995715;;-
+cis1,2-Dichloroethylene;156-59-2;205-859-7;PRO-248;C(=CCl)Cl;NS00079283;-;;;;;;;0,545723587;31,26359992;-;;;;;;0,732633969;0,247048999;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,55
+cis-2-(2,4-dichlorophenyl)-2-(1H-1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-4-ylmethyl methanesulphonate;67914-86-7;267-749-5;PRO-249;CS(=O)(=O)OCC1COC(Cn2cncn2)(O1)c1ccc(Cl)cc1Cl;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1028;;;;;0,518896585;213,2907904;-;0,992284402;;;;;0,736260604;0,897356693;0,1;;0;0;3;1;0;3;0,5;0,5;0;0;;;0,52
+Climbazole;38083-17-9;253-775-4;PRO-250;CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1ccnc1;NS00008150;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;95;;;;3,8;0,241033821;98,00863724;-;0,68688056;;;;0,223104613;0,771926686;0,698228452;0,1;;10;1000;7;4;3;1;0,5;2;0;505;0,452772783;;0,24
+Cyanoguanidine;461-58-5;207-312-8;PRO-251;C(#N)N=C(N)N;NS00003801;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;1,1;0,939488727;15,11624969;-;0,998300918;;;;0,65108968;0,67592133;0,08653562;0,1;;0;100000;7;4;0;1;1,5;0,5;0,5;50000;0,572007245;;0,94
+Cyanuric acid;108-80-5;203-618-0;PRO-252;C1(=O)NC(=O)NC(=O)N1;NS00009566;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;;;1,7;0,502911185;18,27238639;-;;;;;0,551799519;0,738406534;0,115829609;0,1;;10000;100000;7;4;3;1;1,5;2;0,5;55000;0,75487681;;-
+Cyclohexene;110-83-8;203-807-8;PRO-253;C1CCC=CC1;NS00008978;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;19;;;;2;0,417277818;14,92577985;-;0,122843248;;;;0,5;0,749708724;0,084837379;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,42
+Dapsone;80-08-0;201-248-4;PRO-254;C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N;NS00000683;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;1,8;0,595456287;51,71607279;"Acute Tox. 4 *
+";0,998300918;;;;0,534601961;0,72582762;0,436841115;0;;0;10000;7;4;0;1;1,5;0,5;0,5;5000;0,47336779;;0,6
+Decahydronaphthalene;91-17-8;202-046-9;PRO-255;C1CCC2CCCCC2C1;NS00003533;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;73;;;;3,3;0,242304116;19,01052606;-;0,583038809;;;;0,288826279;0,771771631;0,122945306;0,1;;1000;10000000;7;4;3;1;0,5;0,5;0;5000500;0,84887221;;0,24
+Diammonio(ethyl)[4-[[4-[ethyl(3-sulphonatobenzyl)amino]phenyl](2-sulphonatophenyl)methylene]cyclohexa-2,5-dien-1-ylidene](3-sulphonatobenzyl)ammonium;2650-18-2;220-168-0;PRO-256;CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=CC=C5S(=O)(=O)[O-].[NH4+].[NH4+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;837;;;;2,1;0,757963023;410,4914071;-;0,989071386;;;;0,482678255;0,702851669;0,963994297;0,1;;10;100;7;4;3;1;1,5;2;0,5;55;0,367121708;;-
+dibutyl adipate;105-99-7;203-350-4;PRO-257;CCCCOC(=O)CCCCC(=O)OCCCC;NS00011516;-;;;;;;;0,304883018;5,764221571;-;;;;;;0,76404139;0,017901125;0,1;;;;7;4;3;1;1,5;2;0,5;;;;0,3
+dibutyl hydrogen phosphate;16980-89-5;241-059-4;PRO-258;CCCC(=O)NC1=C2C(=NC=N1)N(C=N2)C3C(C4C(O3)COP(=O)(O4)[O-])OC(=O)CCC.[Na+];-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Dibutyl hydrogen phosphate;107-66-4;203-509-8;PRO-259;CCCCOP(=O)(O)OCCCC;NS00009170;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;25;;;;0,5;0,44904062;8,093931132;-;0,182929628;;;;0,738796125;0,745554794;0,031537137;0,1;;10;1000;7;4;3;1;1,5;0,5;0,5;505;0,452772783;;0,45
+Dibutylphthalate;84-74-2;201-557-4;PRO-260;CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC;NS00010095;-;;;;;;;0,291252687;6,282083675;"Repr. 1B
+Aquatic Acute 1
+";;;;;;0,765740414;0,020678683;1;;;;7;4;3;1;1,5;0,5;0,5;;;;0,29
+Dibutyltin bis(2-ethylhexanoate);04/10/2781;220-481-2;PRO-261;CCCCC(CC)C(=O)O[Sn](CCCC)(CCCC)OC(=O)C(CC)CCCC;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;109;;;;;;;"Muta. 2
+Repr. 1B
+STOT RE 1";0,735086324;;;;;;;1;;10;100;3;4;3;1;0,5;0,5;0,5;55;0,24152744;;-
+Dibutyltin oxide;818-08-6;212-449-1;PRO-262;CCCC[Sn](=O)CCCC;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;24;;;;;;;-;0,17272887;;;;;;;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;-
+Dichlobenil;1194-65-6;214-787-5;PRO-263;N#Cc1c(Cl)cccc1Cl;NS00002192;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1040;;324;;2,4;0,359564929;57,80995611;"Acute Tox. 4 *
+Aquatic Chronic 2
+";0,992434823;;0,946995526;;0,431125928;0,757139984;0,484113924;0;;10;1000;7;1;3;1;0,5;0,5;0;505;0,336345496;;0,36
+Dichlorodifluoromethane;75-71-8;200-893-9;PRO-264;C(F)(F)(Cl)Cl;NS00002142;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;70;;;;1,2;0,521768381;52,43737036;-;0,56550196;;;;0,635183106;0,73587389;0,442674677;0,1;;10;1000;3;1;3;1;0,5;0,5;0;505;0,232854574;;0,52
+"dichloromethane; methylene chloride";75-09-2;200-838-9;PRO-265;ClCCl;NS00004151;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;191;;;0,653526386;29,68843226;"Carc. 2
+";;;0,878627049;;;0,717745193;0,230979253;0;;0;100000;7;4;0;1;1,5;2;0;50000;0,611456021;;0,65
+diethyl phthalate;84-66-2;201-550-6;PRO-266;CCOC(=O)C1=CC=CC=C1C(=O)OCC;NS00009893;-;;;;;;;0,477055625;15,79761631;-;;;;;;0,741853513;0,092682058;0,1;;;;7;4;3;1;1,5;2;0,5;;;;0,48
+Diethylmethylbenzenediamine;68479-98-1;270-877-4;PRO-267;CCC1=C(C(=C(C=C1C)N)CC)N;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;146;;;;;0,444774457;44,26048909;-;0,82056845;;;;;0,746115353;0,372823582;0,1;;1000;1000;7;4;3;1;1,5;2;0;1000;0,515986395;;-
+Diisopropyl ether;108-20-3;203-560-6;PRO-268;CC(C)OC(C)C;NS00003939;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;59;;;;;0,556029909;16,54839;-;0,492817504;;;;;0,731232308;0,099575888;0,1;;1000;1000;7;4;3;1;1,5;2;0;1000;0,515986395;;0,56
+dimethyl(phenyl)sulfanium nonafluorobutane-1-sulfonate;220133-51-7;452-310-4;PRO-269;C[S+](C)c1ccccc1;-;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Dinitrotoluene;25321-14-6;246-836-1;PRO-270;Cc1cccc(c1N(=O)=O)N(=O)=O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;1;0,402641689;51,51468738;-;;;;;0,666666667;0,75160756;0,435200936;0,1;;0;0;7;1;0;1;0,5;0,5;0;0;;;-
+Dinoseb;88-85-7;201-861-7;PRO-271;CCC(C)c1cc(N(=O)=O)cc(N(=O)=O)c1O;-;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;340;;2,9;0,261297519;59,27168093;"Repr. 1B
+Acute Tox. 3 *
+Acute Tox. 3 *
+Eye Irrit. 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;0,950982584;;0,34891032;0,769444413;0,494780656;1;;1000;1000;3;1;3;1;0,5;0,5;0;1000;0,251020408;;0,26
+Diphenylamine;122-39-4;204-539-4;PRO-272;c1ccccc1Nc1ccccc1;NS00010366;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;67;;;;3,4;0,361962657;25,93932217;"Acute Tox. 3 *
+Acute Tox. 3 *
+Acute Tox. 3 *
+STOT RE 2 *
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,547020956;;;;0,274799575;0,75683425;0,192543094;1;;0;100;7;4;0;1;1,5;2;0,5;50;0,304649796;;0,36
+Disodium [(9,10-dihydro-9,10-dioxo-1,4-anthrylene)diimino]bis[ethyltoluenesulphonate];83027-61-6;280-163-4;PRO-273;CCc1cc(Nc2c3C(=O)c4c(cccc4)C(=O)c3c(Nc3c(C)c(cc(CC)c3)S(=O)(=O)O)cc2)c(C)c(c1)S(=O)(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;721;;;;;0,257224257;307,5483024;-;0,985941206;;;;;0,769944897;0,942341665;0,1;;0;10;7;4;3;3;1,5;2;0,5;5;0,256995715;;0,26
+Disodium [3-[(4,5-dihydro-3-methyl-5-oxo-1-phenyl-1H-pyrazol-4-yl)azo]-4-hydroxy-5-nitrobenzenesulphonato(3-)][2-[(2-hydroxybenzylidene)amino]-4-nitrophenolato(2-)-N2,O1,O2]chromate(2-);83733-23-7;280-676-3;PRO-274;CC1=NN(C(=O)C1N=NC2=C(C(=CC(=C2)S(=O)(=O)O)[N+](=O)[O-])O)C3=CC=CC=C3;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;9184;;;;;;;-;0,99981599;;;;;;;0,1;;0;10;7;4;3;3;1,5;0,5;0,5;5;0,238638878;;-
+Disodium [?-[[7,7'-iminobis[4-hydroxy-3-[[2-hydroxy-5-sulphamoylphenyl]azo]naphthalene-2-sulphonato]](6-)]]dicuprate(2-);04/03/6798;229-872-2;PRO-275;NS(=O)(=O)c1ccc(O)c(c1)N=Nc1c(O)c2ccc(Nc3cc4cc(c(N=Nc5cc(ccc5O)S(=O)(=O)N)c(O)c4cc3)S(=O)(=O)O)cc2cc1S(=O)(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;934;;;;;;;-;0,990922468;;;;;;;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;-
+disodium 2-({2-hydroxy-3-[2-(4-nonylphenoxy)ethoxy]propyl}(methyl)amino)acetate 2-{[3-({1-chloro-3-[2-(4-nonylphenoxy)ethoxy]propan-2-yl}oxy)-2-hydroxypropyl](methyl)amino}acetate;75627-31-5;616-248-3;PRO-276;CCCCCCCCCc1ccc(OCCOCC(O)CN(C)CC(=O)OC(=O)CN(C)CC(O)COC(CCl)COCCOc2ccc(CCCCCCCCC)cc2)cc1;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;831;;;;2,5;;;-;0,988937644;;;;0,414213562;;;0,1;;10;1000;3;4;3;3;0,5;0,5;0;505;0,362218226;;-
+Disodium 2-(2,4,5,7-tetraiodo-6-oxido-3-oxoxanthen-9-yl)benzoate;16423-68-0;240-474-8;PRO-277;C1=CC=C2C(=C1)C(=O)OC23C4=CC(=C(C(=C4OC5=C(C(=C(C=C35)I)[O-])I)I)[O-])I.[Na+].[Na+];NS00013518;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;3003903;;;;1,3;0,750173788;404,9239153;-;0,999999991;;;;0,618975739;0,703978039;0,963175182;0,1;;10;100;7;4;3;1;1,5;2;0,5;55;0,367121708;;-
+Disodium 4,4'-diamino-9,9',10,10'-tetrahydro-9,9',10,10'-tetraoxo[1,1'-bianthracene]-3,3'-disulphonate;6022-22-6;227-877-4;PRO-278;C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3C4=CC(=C(C5=C4C(=O)C6=CC=CC=C6C5=O)N)S(=O)(=O)O)S(=O)(=O)O)N;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2937;;;;;0,290795035;164,3865461;-;0,998709411;;;;;0,765797312;0,848511708;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,29
+Disodium 4-[4-[[5-[(2-bromo-1-oxoallyl)amino]-2-sulphonatophenyl]azo]-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl]-2,5-dichlorobenzenesulphonate;70247-70-0;274-499-0;PRO-279;CC1=NN(C(=O)C1N=NC2=C(C=CC(=C2)NC(=O)C(=C)Br)S(=O)(=O)[O-])C3=CC(=C(C=C3Cl)S(=O)(=O)[O-])Cl.[Na+].[Na+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;4777;;;;;0,468020315;428,492509;-;0,9994377;;;;;0,743051065;0,966455985;0,1;;10;100;7;4;3;1;1,5;2;0,5;55;0,367121708;;0,47
+Disodium 6-hydroxy-5-[(2-methoxy-4-sulphonato-m-tolyl)azo]naphthalene-2-sulphonate;25956-17-6;247-368-0;PRO-280;CC1=CC(=C(C=C1S(=O)(=O)[O-])OC)N=NC2=C(C=CC3=C2C=CC(=C3)S(=O)(=O)[O-])O.[Na+].[Na+];NS00050913;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;1,3;0,38073005;88,22636779;-;0,998300918;;;;0,618975739;0,754432212;0,659062999;0,1;;10;100;7;4;3;1;1,5;2;0,5;55;0,367121708;;0,38
+Disodium 7-[(4-amino-3-methoxyphenyl)azo]naphthalene-1,3-disulphonate;65151-26-0;265-529-3;PRO-281;COc1cc(ccc1N)N=Nc1cc2c(cc(cc2cc1)S(=O)(=O)O)S(=O)(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;947;;;;;0,571591948;103,7941916;-;0,991132576;;;;;0,729107084;0,718477916;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,57
+Disodium oxybis[methylbenzenesulphonate];73037-34-0;277-242-0;PRO-282;CC1=C(C(=CC=C1)S(=O)(=O)[O-])OC2=C(C=CC=C2S(=O)(=O)[O-])C.[Na+].[Na+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;;0,652411207;42,2854461;-;0,998300918;;;;;0,717901763;0,354764601;0,1;;10;1000;7;4;3;1;0,5;0,5;0;505;0,413963687;;-
+Ditolyl ether;28299-41-4;248-948-6;PRO-283;Cc1cc(ccc1)Oc1cc(C)ccc1;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;32;;;;3,7;0,220222578;36,93114972;-;0,254526695;;;;0,235348963;0,77445637;0,303728096;0,1;;1000;10000000;3;4;3;1;0,5;0,5;0;5000500;0,636654158;;0,22
+"diuron (ISO); 3-(3,4-dichlorophenyl)-1,1-dimethylurea";330-54-1;206-354-4;PRO-284;CN(C)C(=O)Nc1cc(c(cc1)Cl)Cl;-;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;1920;232;2,6;0,442704238;64,05708698;"Carc. 2
+Acute Tox. 4 *
+STOT RE 2 *
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;0,997334553;0,60679041;0,397501059;0,746387079;0,527934259;1;;10;1000;7;4;3;1;0,5;0,5;0,5;505;0,426900053;;0,44
+erucamide;112-84-5;204-009-2;PRO-285;CCCCCCCCC=CCCCCCCCCCCCC(=O)N;NS00010726;-;;;;;;;0,076690233;27,88086909;-;;;;;;0,791359015;0,212457402;0,1;;;;7;4;3;1;1,5;2;0,5;;;;0,08
+Erythromycin;114-07-8;204-040-1;PRO-286;CCC1C(C)(O)C(O)C(C)C(=O)C(C)CC(C)(O)C(OC2C(O)C(N(C)C)CC(C)O2)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(=O)O1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;6161;;;;;0,60143603;478,236311;-;0,999635951;;;;;0,725002017;0,972037658;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,6
+"ethametsulfuron-methyl (ISO); methyl 2-[(4-ethoxy-6-methylamino-1,3,5-triazin-2-yl)carbamoylsulfamoyl]benzoate";97780-06-8;619-290-0;PRO-287;CCOc1nc(NC)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC)n1;NS00005321;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2422;;1092;;1,6;0,541975007;110,0500114;"Eye Irrit. 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,99820648;;0,993036001;;0,568874072;0,733142624;0,738265532;1;;0;10;7;4;3;1;0,5;0,5;0;5;0,195806259;;0,54
+Ethisterone;434-03-7;207-096-5;PRO-288;C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2CC[C@@]2(C)[C@H]1CC[C@@]2(O)C#C;NS00007266;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;228;;;;;0,426118191;145,6591325;-;0,907392032;;;;;0,748557133;0,819979359;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,43
+Ethyl 2-(4-chloro-6-methoxypyrimidin-2-ylcarbamoylsulfamoyl)benzoate;90982-32-4;618-690-2;PRO-289;CCOC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(Cl)cc(OC)n1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;210;;53;;;0,293288627;79,83989979;-;0,894882386;;0,447180457;;;0,765487174;0,619722644;0,1;;0;10;7;4;3;1;0,5;0,5;0;5;0,195806259;;0,29
+Ethylenediamine, ethoxylated and propoxylated;26316-40-5;500-047-1;PRO-290;CC1CO1.C1CO1.C(CN)N;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;29565;;;;;;;-;0,999975059;;;;;;;0,1;;10;1000;7;4;3;1;1,5;2;0;505;0,478645514;;-
+F-53B (9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid);73606-19-6;-;PRO-291;C(C(C(C(F)(F)Cl)(F)F)(F)F)(C(C(OC(C(F)(F)S(=O)(=O)[O-])(F)F)(F)F)(F)F)(F)F.[K+];-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Fluocortolone;152-97-6;205-811-5;PRO-292;C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@]2(C)[C@H]1C(=O)CO;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;76;;;;;0,563272558;71,02085575;-;0,599674558;;;;;0,730244531;0,571573332;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;0,56
+Galaxolidone;507442-49-1;-;PRO-293;CC1COC(=O)C2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Guanidinium chloride;50-01-1;200-002-3;PRO-294;C(=N)(N)N.Cl;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;70;;70;;;0,979477027;13,6287459;"Acute Tox. 4 *
+Skin Irrit. 2
+Eye Irrit. 2
+";0,56550196;;0,56550196;;;0,669820346;0,073524089;0;;10;1000;7;4;3;1;1,5;2;0;505;0,478645514;;-
+hexafluoropropylene oxide dimer acid /perfluoro-2-propoxypropanoic acid ;13252-13-6;236-236-8;PRO-295;C(=O)(C(C(F)(F)F)(OC(C(C(F)(F)F)(F)F)(F)F)F)O;-;-;;;;;;;0,513236018;555,7501901;-;;;;;;0,737021786;0,978232477;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Hexahydro-4-methylphthalic anhydride;19438-60-9;243-072-0;PRO-296;CC1CCC2C(C1)C(=O)OC2=O;NS00009296;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;37;;;;;0,517477514;21,62700341;-;0,304401872;;;;;0,73645156;0,148756369;0,1;;1000;1000;7;4;3;1;0,5;0,5;0;1000;0,446258503;;0,52
+Hexahydromethylphthalic anhydride;25550-51-0;247-094-1;PRO-297;CC12CCCCC1C(=O)OC2=O;-;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;39;;;;;0,51363429;32,71107596;-;0,323785678;;;;;0,736968277;0,261721097;0,1;;10;1000;7;4;3;1;1,5;2;0;505;0,478645514;;-
+Hexamethyldisiloxane;107-46-0;203-492-7;PRO-298;C[Si](C)(C)O[Si](C)(C)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;408;192;2,9;0,145324399;21,09365043;-;;;0,963631321;0,527554388;0,34891032;0,783395262;0,143431579;0,1;;10000;100000;7;4;3;1;1,5;2;0,5;55000;0,75487681;;-
+Hydrogen [4-[[4-(diethylamino)phenyl][4-[ethyl[(3-sulphonatobenzyl)amino]-o-tolyl]methylene]-3-methylcyclohexa-2,5-dien-1-ylidene](ethyl)(3-sulphonatobenzyl)ammonium, sodium salt;6505-30-2;229-390-2;PRO-299;CCN(CC1=CC(=CC=C1)S(=O)(=O)O)C2=CC(=C(C=C2)C(=C3C=CC(=[N+](CC)CC)C=C3)C4=C(C=C(C=C4)N(CC)CC5=CC(=CC=C5)S(=O)(=O)O)C)C;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;7947;;;;;0,58810548;519,9827261;-;0,999764373;;;;;0,726840405;0,975674549;0,1;;0;10;7;4;3;1;1,5;2;0,5;5;0,232519933;;0,59
+Hydrogen [4-[4-(diethylamino)-2',4'-disulphonatobenzhydrylidene]cyclohexa-2,5-dien-1-ylidene]diethylammonium, sodium salt;129-17-9;204-934-1;PRO-300;CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=C(C=C(C=C3)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2154;;;;1;0,94467447;103,9157537;-;0,997809234;;;;0,666666667;0,675133455;0,718882472;0,1;;10;100;7;4;3;1;1,5;0,5;0;55;0,328477318;;0,94
+Ibuprofen;15687-27-1;239-784-6;PRO-301;CC(C)Cc1ccc(cc1)C(C)C(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;2,8;0,439355074;16,75956619;-;;;;;0,364816894;0,746826265;0,101536425;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,44
+Iohexol;66108-95-0;266-164-2;PRO-302;CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2500;;;;;0,94611995;99,16256657;-;0,998300918;;;;;0,674913665;0,702427829;0,1;;0;0;7;4;0;1;0,5;0,5;0;0;;;0,95
+Ioxitalamic acid;28179-44-4;248-887-5;PRO-303;CC(=O)Nc1c(I)c(C(=O)O)c(I)c(C(=O)NCCO)c1I;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;28561;;;;;0,826849678;166,6792882;-;0,999973542;;;;;0,692783715;0,851530251;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;0,83
+kresoxim-methyl (ISO);143390-89-0;604-351-6;PRO-304;CON=C(C(=O)OC)c1ccccc1COc1ccccc1C;NS00008540;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2;;511;;2,5;0,365443541;39,87394009;"Carc. 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,002975435;;0,974957414;;0,414213562;0,756389939;0,332135296;1;;0;0;3;1;0;3;0,5;0,5;0;0;;;0,37
+Loperamide;53179-11-6;258-416-5;PRO-305;CN(C)C(=O)C(CCN1CCC(O)(CC1)c1ccc(Cl)cc1)(c1ccccc1)c1ccccc1;NS00002516;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;892;;;;2,7;0,296054638;470,1880701;-;0,990186932;;;;0,381024261;0,76514282;0,971238145;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;0,3
+Melamine;108-78-1;203-615-4;PRO-306;C1(=NC(=NC(=N1)N)N)N;NS00010262;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;913;;1,1;0,799977818;64,20722003;"Carc. 2
+STOT RE 2";;;0,990566022;;0,65108968;0,696733704;0,528931513;0,5;;0;1000000;7;4;0;1;1,5;0,5;0,5;500000;0,670646701;;0,8
+Merbromin;129-16-8;204-933-6;PRO-307;Oc1c(Br)cc2c(Oc3c(cc(Br)c(O)c3[Hg])C32OC(=O)c2ccccc32)c1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;643;;;;1,6;0,610109633;239,869833;-;0,982953538;;;;0,568874072;0,723801743;0,914429395;0,1;;0;10;7;1;3;1;0,5;0,5;0;5;0,159092585;;-
+Metformin hydrochloride;1115-70-4;214-230-6;PRO-308;CN(C)C(=N)N=C(N)N.Cl;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;35;;;;;0,863875772;18,27951705;-;0,284668525;;;;;0,687294561;0,115897935;0,1;;0;1000;3;4;0;1;0,5;0,5;0;500;0,23259;;0,86
+Methyl 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoate;958445-54-0;640-001-9;PRO-309;COC(=O)C(F)(F)C(F)OC(F)(F)C(F)(F)C(F)(F)OC(F)(F)F;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;5242;;;;1,3;;;-;0,999520223;;;;0,618975739;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+Methyl 5-methyl-4-[(oxomethylene)sulfamoyl]thiophene-3-carboxylate;897671-34-0;618-297-6;PRO-310;C(=O)(c1c(S(=O)(=O)N=C=O)c(C)sc1)OC;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;34;;;;;;;-;0,274686182;;;;;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+methyl paraben;99-76-3;202-785-7;PRO-311;COC(=O)C1=CC=C(C=C1)O;NS00001849;-;;;;;;;0,480861165;13,75428115;-;;;;;;0,741348034;0,074598962;0,1;;;;7;4;3;1;1,5;2;0;;;;-
+Methyl-1H-benzotriazole;29385-43-1;249-596-6;PRO-312;CC1=CC=CC2=NNN=C12;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;33;;;;1,5;0,509720164;21,51758556;-;0,264636236;;;;0,585786438;0,737493855;0,14766173;0,1;;1000;1000;7;4;3;1;1,5;2;0;1000;0,515986395;;0,51
+m-phenylenediamine;108-45-2;203-584-7;PRO-313;C1=CC(=CC(=C1)N)N;NS00005820;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;109;;;;;0,711259139;28,26421644;"Muta. 2
+Acute Tox. 3 *
+Acute Tox. 3 *
+Acute Tox. 3 *
+Eye Irrit. 2
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,735086324;;;;;0,709568047;0,216389647;1;;0;10000;7;4;0;1;1,5;0,5;0;5000;0,457044762;;0,71
+m-tolyl isocyanate;621-29-4;210-676-0;PRO-314;Cc1cc(ccc1)N=C=O;NS00020856;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;28;;;;1,4;0,376978452;21,51758556;-;0,213679536;;;;0,602498941;0,754913657;0,14766173;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,38
+N'-(1,3-dimethylbutylidene)-3-hydroxy-2-naphthohydrazide;214417-91-1;435-860-1;PRO-315;CC(C)CC(=NNC(=O)C1=CC2=CC=CC=C2C=C1O)C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;111;;;;;;;"Skin Sens. 1
+Aquatic Chronic 2
+";0,741094841;;;;;;;0;;10;100;7;4;3;1;0,5;0,5;0,5;55;0,31881622;;-
+N-(2-ethylhexyl)-8,9,10-trinorborn-5-ene-2,3-dicarboximide;113-48-4;204-029-1;PRO-316;CCCCC(CC)CN1C(=O)C2C3CC(C=C3)C2C1=O;NS00006960;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;388;;2,8;0,342279461;19,18563323;-;;;0,96049713;;0,364816894;0,759336314;0,12464548;0,1;;10;100;7;1;3;1;0,5;0,5;0;55;0,251188537;;0,34
+N-(2-nitrophenyl)phosphoric triamide;874819-71-3;477-690-9;PRO-317;- ;NS00022857;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;164;;;;;;;"Repr. 1B
+STOT RE 2";0,847993667;;;;;;;1;;10;100;7;4;3;1;1,5;0,5;0;55;0,328477318;;-
+N-(4-{[3-(dimethylamino)propyl]sulfamoyl}phenyl)-2-[(2-methoxy-4-nitrophenyl)diazenyl]-3-oxobutanamide;1065519-44-9;700-222-4;PRO-318;CC(=O)C(C(=O)NC1=CC=C(C=C1)S(=O)(=O)NCCCN(C)C)N=NC2=C(C=C(C=C2)[N+](=O)[O-])OC;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1548;;;;;;;-;0,996152788;;;;;;;0,1;;0;10;7;4;3;1;1,5;0,5;0;5;0,20804415;;-
+N-(4-Methyl-3-nitro-phenyl)-4-(4-methyl-piperazin-1-ylmethyl)-benzamide;581076-60-0;611-622-2;PRO-319;C(=O)(c1ccc(CN2CCN(C)CC2)cc1)Nc1cc(N(=O)=O)c(C)cc1;NS00009237;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;980;;;;;;;-;0,991632693;;;;;;;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+N,N,N',N'-tetramethyl-2,2'-oxybis(ethylamine);3033-62-3;221-220-5;PRO-320;CN(C)CCOCCN(C)C;NS00005315;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;;0,751289303;57,45019255;-;0,998300918;;;;;0,70381688;0,481449122;0,1;;1000;1000;7;4;3;1;1,5;0,5;0,5;1000;0,488095238;;0,75
+N,N-bis[3-(dimethylamino)propyl]-N',N'-dimethylpropane-1,3-diamine;33329-35-0;251-459-0;PRO-321;CN(C)CCCN(CCCN(C)C)CCCN(C)C;NS00006390;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;981;;;;;0,667359453;247,6199084;-;0,991647147;;;;;0,715798669;0,918588251;0,1;;10;1000;7;4;3;1;1,5;0,5;0,5;505;0,452772783;;0,67
+N,N-dibutylformamide;761-65-9;212-090-0;PRO-322;CCCCN(CCCC)C=O;NS00009641;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;;;;0,540804732;7,16066185;-;;;;;;0,733301295;0,02573127;0,1;;0;100;3;4;0;1;0,5;0,5;0;50;0,17136551;;0,54
+N,N-dicyclohexylbenzothiazole-2-sulphenamide;4979-32-2;225-625-8;PRO-323;C1CCCCC1N(C1CCCCC1)Sc1nc2ccccc2s1;NS00003781;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;1000;;3;0,354441548;46,66338817;-;;;0,991914442;;0,333333333;0,757792389;0,394187235;0,1;;1000;10000000;7;4;3;1;1,5;2;0,5;5000500;1,00803575;;0,35
+N,N-Dimethyl-3-((perfluorohexyl)ethylsulfonyl)aminopropanamine N-oxide;80475-32-7;279-481-6;PRO-324;O=N(C)(C)CCCNS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;7;4;3;1;1,5;0,5;0,5;;;;-
+N-[3-({[2,2-dimethyl-3-(morpholin-4-yl)propylidene]amino}methyl)-3,5,5-trimethylcyclohexyl]-2,2-dimethyl-3-(morpholin-4-yl)propan-1-imine;1217271-02-7;700-584-3;PRO-325;CC(C)(CN1CCOCC1)C=NCC1(C)CC(CC(C)(C)C1)N=CC(C)(C)CN1CCOCC1;NS00005355;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;8821;;;;;;;-;0,999802859;;;;;;;0,1;;0;10000000;7;4;3;1;1,5;2;0,5;5000000;1,008030137;;-
+N-butylbenzenesulphonamide;3622-84-2;222-823-6;PRO-326;CCCCNS(=O)(=O)C1=CC=CC=C1;NS00007746;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;985;;;;;0,440926462;14,06085241;-;0,99170457;;;;;0,746620267;0,077242582;0,1;;1000;1000;7;4;3;1;0,5;0,5;0,5;1000;0,460204082;;0,44
+N-EtFOSE;-;-;PRO-327;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;3;1;3;3;0,5;0,5;0;;;;-
+N-Ethyl perfluorooctane sulfonamide;4151-50-2;223-980-3;PRO-328;CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00000371;-;;;;;;;0,125262163;5009,540072;-;;;;;;0,785745644;0,99948156;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+N-Ethyl perfluorooctane sulfonamidoacetic acid;2991-50-6;221-061-1;PRO-329;CCN(CC(=O)O)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00000428;-;;;;;;;0,2335947;3158,723205;-;;;;;;0,772833228;0,998860223;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,23
+N-isopropyl-N'-phenyl-p-phenylenediamine;101-72-4;202-969-7;PRO-330;CC(C)NC1=CC=C(C=C1)NC2=CC=CC=C2;NS00008626;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;290;;;;;0,385217969;45,07082331;"Acute Tox. 4 *
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,936635902;;;;;0,753855439;0,380103876;1;;1000;1000;7;4;3;1;0,5;0,5;0,5;1000;0,460204082;;0,39
+Nitrobenzene;98-95-3;202-716-0;PRO-331;O=N(=O)c1ccccc1;NS00001683;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;;;1,7;0,471007023;23,75000003;"Carc. 2
+Repr. 1B
+Acute Tox. 3
+Acute Tox. 3
+Acute Tox. 3
+STOT RE 1
+Aquatic Chronic 3
+";;;;;0,551799519;0,742655605;0,170185925;1;;0;0;7;4;0;1;0,5;0,5;0;0;;;0,47
+N-MeFOSE;-;-;PRO-332;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;3;1;3;3;0,5;0,5;0;;;;-
+N-Methyl perfluorobutane sulfonamide;68298-12-4;614-396-3;PRO-333;CNS(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F;NS00011240;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;1;0,5;0,5;0;;;;-
+N-Methyl Perfluorobutane Sulfonylamide Acetate;159381-10-9;-;PRO-334;CN(CC(=O)O)S(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+N-Methyl perfluorooctane sulfonamide;31506-32-8;250-665-8;PRO-335;CNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00010968;-;;;;;;;0,147333158;4715,563301;-;;;;;;0,783158902;0,999425126;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+N-Methyl perfluorooctane sulfonamidoacetic acid;2355-31-9;-;PRO-336;CN(CC(=O)O)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00000427;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Nonadecafluorodecanoic acid;335-76-2;206-400-3;PRO-337;C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00000369;-;;;;;;;0,253586124;3515,804812;-;;;;;;0,770391272;0,999050734;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,25
+Norethisterone;68-22-4;200-681-6;PRO-338;C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@]2(O)C#C;NS00009098;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;108;;;;;0,439303854;90,63381042;-;0,73200675;;;;;0,746832978;0,669327262;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;0,44
+Octyl (R)-2-(4-chloro-2-methylphenoxy)propionate;66423-13-0;266-358-7;PRO-339;CCCCCCCCOC(=O)C(C)OC1=C(C=C(C=C1)Cl)C;NS00003605;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;67;;;;1,9;0,141644559;35,33827319;-;0,547020956;;;;0,517321745;0,783827765;0,288028674;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;0,14
+o-phenylenediamine;95-54-5;202-430-6;PRO-340;Nc1ccccc1N;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;109;;;;0;0,672051116;28,26421644;"Carc. 2
+Muta. 2
+Acute Tox. 3 *
+Acute Tox. 4 *
+Acute Tox. 4 *
+Eye Irrit. 2
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,735086324;;;;0,8;0,715136645;0,216389647;1;;0;0;7;4;0;1;0,5;0,5;0;0;;;0,67
+Oxybenzone;131-57-7;205-031-5;PRO-341;COc1ccc(C(=O)c2ccccc2)c(O)c1;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;;;3,2;0,269336143;28,13768156;-;;;;;0,303269545;0,768454467;0,21509184;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;0,27
+pentasodium 4-amino-3-[(2,4-disulfonatophenyl)diazenyl]-5-hydroxy-6-[(4-nitro-2-sulfonatophenyl)diazenyl]naphthalene-1,7-disulfonate;1422649-48-6;811-858-8;PRO-342;Nc1c2c(O)c(N=Nc3c(cc(cc3)N(=O)=O)S(=O)(=O)O)c(cc2c(cc1N=Nc1c(cc(cc1)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;10354;;;;1,3;;;-;0,99985009;;;;0,618975739;;;0,1;;0;10;3;1;3;3;0,5;0,5;0;5;0,134616803;;-
+Perfluoro-1-butanesulfonamide;30334-69-1;816-392-9;PRO-343;C(C(C(F)(F)S(=O)(=O)N)(F)F)(C(F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Perfluoro-3,7-dimethyloctanoic acid;172155-07-6;671-192-7;PRO-344;C(=O)(C(C(C(C(C(C(C(F)(F)F)(C(F)(F)F)F)(F)F)(F)F)(F)F)(C(F)(F)F)F)(F)F)O;NS00018817;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Perfluoro-4-ethyl-hexanesulphonic acid;646-83-3;-;PRO-345;C1(C(C(C(C(C1(F)F)(F)F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)F;NS00112295;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluoro-4-methoxybutanoic acid;863090-89-5;640-688-5;PRO-346;C(=O)(C(C(C(OC(F)(F)F)(F)F)(F)F)(F)F)O;NS00019287;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorobutanoic acid ;375-22-4;206-786-3;PRO-347;C(=O)(C(C(C(F)(F)F)(F)F)(F)F)O;NS00000364;-;;;;;;;0,612514225;80,52816741;-;;;;;;0,723468417;0,623174652;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,61
+perfluorodecane sulfonic acid;335-77-3;206-401-9;PRO-348;C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00011418;-;;;;;;;0,183902545;10779,327;-;;;;;;0,778823398;0,999860058;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,18
+perfluorodecylphosphonic acid;52299-26-0;-;PRO-349;C(C(C(C(C(C(F)(F)P(=O)(O)O)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorododecane sulfonic acid;79780-39-5;279-259-9;PRO-350;C(C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;0,118795259;37958,77612;-;;;;;;0,786499307;0,99998373;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorododecanoic acid ;307-55-1;206-203-2;PRO-351;C(=O)(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00009617;-;;;;;;;0,168914863;12380,70315;-;;;;;;0,78060774;0,99988956;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,17
+perfluoroheptane sulfonic acid;375-92-8;206-800-8;PRO-352;C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F;NS00011291;-;;;;;;;0,327490743;1631,372648;-;;;;;;0,761204603;0,996481618;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,33
+perfluoroheptanoic acid ;375-85-9;206-798-9;PRO-353;C(=O)(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00000367;-;;;;;;;0,422444123;532,0914568;"Repr. 1B
+STOT RE 1";;;;;;0,749036162;0,976591255;1;;;;3;1;3;3;0,5;0,5;0;;;;0,42
+Perfluorohexane sulfonamidopropyl amine;50598-28-2;256-639-2;PRO-354;CN(C)CCCNS(=O)(=O)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00011249;-;;;;;;;0,219354886;2991,394719;-;;;;;;0,774561408;0,998749221;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorohexane sulfonic acid;355-46-4;206-587-1;PRO-355;C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F;-;-;;;;;;;0,385447811;869,4312801;-;;;;;;0,753825875;0,989751976;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,39
+perfluorohexanesulfonamide;41997-13-1;816-398-1;PRO-356;C(C(C(C(F)(F)S(=O)(=O)N)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F;NS00010964;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorohexanoic acid ;307-24-4;206-196-6;PRO-357;C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00000366;-;;;;;;;0,486036716;283,5752806;-;;;;;;0,740659547;0,93432454;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,49
+perfluorohexylphosphonic acid;40143-76-8;-;PRO-358;C(C(C(C(F)(F)P(=O)(O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Perfluoro-n-hexadecanoic acid;67905-19-5;267-638-1;PRO-359;C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00011276;-;;;;;;;0,067807988;153497,6378;-;;;;;;0,792373725;0,999998507;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Perfluoro-n-octadecanoic acid;16517-11-6;240-582-5;PRO-360;C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00011277;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorononane sulfonic acid ;68259-12-1;-;PRO-361;C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorononanoic acid;375-95-1;206-801-3;PRO-362;C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00000368;-;;;;;;;0,305191591;1873,729268;-;;;;;;0,764002828;0,997221362;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,31
+Perfluoro-n-tetradecanoic acid;376-06-7;206-803-4;PRO-363;C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00011273;-;;;;;;;0,108408834;43589,42517;-;;;;;;0,78770571;0,999987156;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,11
+Perfluorooctane;307-34-6;206-199-2;PRO-364;FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;NS00018916;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;57120;;;;3;0,089060366;6133,958272;-;0,999991909;;;;0,333333333;0,789939773;0,999633204;0,1;;0;10;3;1;3;1;0,5;0,5;0;5;0,110141021;;0,09
+Perfluorooctane sulfonamide;754-91-6;212-046-0;PRO-365;C(C(C(C(C(F)(F)S(=O)(=O)N)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;NS00010967;-;;;;;;;0,169304443;4438,838082;-;;;;;;0,78056149;0,999362552;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,17
+Perfluorooctane sulfonamidoacetic acid;2806-24-8;-;PRO-366;C(C(=O)O)NS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;NS00000426;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorooctane sulfonic acid ;1763-23-1;217-179-8;PRO-367;C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;NS00010280;-;;;;;;;0,273599445;3061,651931;-;;;;;;0,767928244;0,998797829;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,27
+perfluorooctanoic acid;335-67-1;206-397-9;PRO-368;C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00009389;-;;;;;;;0,36220281;998,3991477;"Carc. 2
+Repr. 1B
+Lact.
+Acute Tox. 4
+Acute Tox. 4
+STOT RE 1
+Eye Dam. 1
+";;;;;;0,756803614;0,991892446;1;;;;3;1;3;3;0,5;0,5;0;;;;0,36
+perfluorooctylphosphonic acid;40143-78-0;-;PRO-369;C(C(C(C(C(F)(F)P(=O)(O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluoropentane sulfonic acid ;2706-91-4;220-301-2;PRO-370;C(C(C(F)(F)F)(F)F)(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F;NS00011290;-;;;;;;;0,447789092;463,3587254;-;;;;;;0,745719325;0,970531142;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,45
+perfluoropentanoic acid ;2706-90-3;220-300-7;PRO-371;C(=O)(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)O;NS00000365;-;;;;;;;0,55008464;151,1299209;-;;;;;;0,732041432;0,829096645;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,55
+Perfluoropropane sulfonate;423-41-6;-;PRO-372;C(C(F)(F)F)(C(F)(F)S(=O)(=O)O)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorotridecane sulfonic  acid;174675-49-1;-;PRO-373;C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(F)F)(F)F)(F)F)(F)F)(F)F.[Na+];-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluorotridecanoic acid;72629-94-8;276-745-2;PRO-374;C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-;-;;;;;;;0,13584733;23230,74974;-;;;;;;0,784507862;0,999962337;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,14
+perfluoroundecane sulfonic acid;749786-16-1;-;PRO-375;C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+perfluoroundecanoic acid ;2058-94-8;218-165-4;PRO-376;C(=O)(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;NS00000370;-;;;;;;;0,208093294;6596,94209;-;;;;;;0,775921528;0,999676094;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,21
+Perhydro-1,3,5-trinitro-1,3,5-triazine;121-82-4;204-500-1;PRO-377;C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-];NS00001970;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;72;;;;2;0,549432672;27,28894371;-;0,577295462;;;;0,5;0,732130068;0,206384102;0,1;;1000;1000;7;4;3;1;1,5;0,5;0,5;1000;0,488095238;;0,55
+PFO4DA;39492-90-5;-;PRO-378;C(=O)(C(OC(OC(OC(OC(F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+PFO5DoDA;39492-91-6;-;PRO-379;C(=O)(C(OC(OC(OC(OC(OC(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Phenazone;60-80-0;200-486-6;PRO-380;Cc1cc(=O)n(c2ccccc2)n1C;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;0,8;0,6563773;22,58861913;-;;;;;0,696730455;0,717344688;0,158421675;0,1;;0;0;3;1;0;3;0,5;0,5;0;0;;;0,66
+Phenol, styrenated;61788-44-1;262-975-0;PRO-381;Oc1ccc(C=C)cc1C=C;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;25;;;;3,1;0,426881131;15,75145618;-;0,182929628;;;;0,318112;0,748457584;0,092262247;0,1;;1000;10000000;7;4;3;1;1,5;2;0,5;5000500;1,00803575;;-
+Phenytoin;57-41-0;200-328-6;PRO-382;O=C1NC(=O)C(N1)(c1ccccc1)c1ccccc1;NS00010290;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;84;;;;1,7;0,455840582;43,13528885;-;0,639962892;;;;0,551799519;0,74465962;0,362589142;0,1;;0;0;3;1;0;3;0,5;0,5;0;0;;;-
+Phthalylsulfathiazole;85-73-4;201-627-4;PRO-383;OC(=O)c1ccccc1C(=O)Nc1ccc(S(=O)(=O)N=c2[nH]ccs2)cc1;NS00007465;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;;0,590521184;55,83697241;-;;;;;;0,72650783;0,469306619;0,1;;0;10;3;4;3;3;1,5;0,5;0;5;0,183568368;;0,59
+Piperazine, compound with phosphoric acid;1951-97-9;217-775-8;PRO-384;C1CNCCN1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;;0,799077912;13,80266412;-;;;;;;0,696865487;0,075014428;0,1;;0;10;7;4;3;1;0,5;0,5;0;5;0,195806259;;-
+Potassium 2-(3-trifluoromethoxy-1,1,2,2,3,3-hexafluoropropoxy)-2,3,3,3-tetrafluoropropionate;-;444-340-1;PRO-385;COC(F)(F)C(F)(F)C(F)(F)C(F)(F)F;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;22393;;;;;;;"Aquatic Chronic 4
+";0,999959896;;;;;;;0;;0;0;3;1;0;3;0,5;0,5;0;0;;;-
+Prednisolone;50-24-8;200-021-7;PRO-386;C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;146;;;;;0,604240682;100,2713811;-;0,82056845;;;;;0,724614257;0,70638586;0,1;;0;10;7;4;3;1;0,5;0,5;0;5;0,195806259;;0,6
+Propargite;2312-35-8;219-006-1;PRO-387;CC(C)(C)c1ccc(cc1)OC1CCCCC1OS(=O)OCC#C;NS00006783;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;128;;234;;3,9;0,210387021;80,40258801;"Carc. 2
+Acute Tox. 3 *
+Skin Irrit. 2
+Eye Dam. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,785038237;;0,911056598;;0,211321241;0,775644977;0,622547932;1;;1000;1000;7;1;3;3;0,5;0,5;0;1000;0,418367347;;0,21
+Propazine;139-40-2;205-359-9;PRO-388;CC(C)Nc1nc(nc(n1)Cl)NC(C)C;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;383;;;;1,7;0,442191265;115,3925831;"Carc. 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,959647192;;;;0,551799519;0,746454379;0,753619911;1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,44
+Propylenediamine;78-90-0;201-155-9;PRO-389;CC(CN)N;NS00007190;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;13;;;;2,3;0,774749547;13,10723845;"Flam. Liq. 3
+Acute Tox. 4 *
+Acute Tox. 4 *
+Skin Corr. 1A
+";0,068209867;;;;0,448200481;0,700415853;0,069107903;0;;0;10000;7;4;0;1;0,5;0,5;0;5000;0,424398708;;-
+"pymetrozine (ISO); (E)-4,5-dihydro-6-methyl-4-(3-pyridylmethyleneamino)-1,2,4-triazin-3(2H)-one";123312-89-0;602-927-1;PRO-390;CC1=NNC(=O)N(C1)N=CC2=CN=CC=C2;NS00000443;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;6;;707;379;1;0,671286818;40,58020759;"Carc. 2
+Repr. 2
+Aquatic Chronic 1
+";0,01914665;;0,985468919;0,781233104;0,666666667;0,715244555;0,338826409;1;;10;100;7;1;3;3;0,5;0,5;0;55;0,289832927;;0,67
+Pyridine, alkyl derivs.;68391-11-7;269-929-9;PRO-391;c1(CC)cc(C)ccn1;-;REACH-B2;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;37;;;;1,7;0,427135522;35,91512414;"Carc. 1B
+Muta. 1B
+";0,304401872;;;;0,551799519;0,748424385;0,293738141;1;;0;10000000;7;4;3;1;1,5;0,5;0;5000000;0,901921701;;-
+Resin acids and Rosin acids, hydrogenated, esters with glycerol;65997-13-9;266-042-9;PRO-392;CC(C)C1CC2CCC3C(C)(CCCC3(C)C2CC1)C(=O)OCC(O)CO;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;39;;;;;0,338249435;50,3718463;-;0,323785678;;;;;0,759846424;0,425798465;0,1;;1000;10000000;7;4;3;1;1,5;2;0,5;5000500;1,00803575;;-
+Salbutamol;18559-94-9;242-424-0;PRO-393;CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O;NS00000415;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;19;;;;0,9;0,889809727;21,42543372;-;0,122843248;;;;0,681888;0,683418188;0,146740706;0,1;;0;100;3;1;0;1;0,5;0,5;0;50;0,114243674;;0,89
+sodium (4,6-dimethoxypyrimidin-2-yl)({[3-(2,2,2-trifluoroethoxy)pyridin-2-yl]sulfonyl}carbamoyl)azanide;199119-58-9;688-332-8;PRO-394;COC1=CC(=NC(=N1)NC(=O)[N-]S(=O)(=O)C2=C(C=CC=N2)OCC(F)(F)F)OC.[Na+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;;;408;115;1,4;;;-;;;0,963631321;0,317365966;0,602498941;;;0,1;;10;100;7;1;3;1;0,5;0,5;0;55;0,251188537;;-
+Sodium [2-[(2,6-dichlorophenyl)amino]phenyl]acetate;15307-79-6;239-346-4;PRO-395;C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;226;;;;;0,396323023;62,16125452;-;0,906118567;;;;;0,752424333;0,515119148;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;-
+Sodium 1-amino-9,10-dihydro-4-[5-[(2-hydroxyethyl)sulphamoyl]-3,4-xylidino]-9,10-dioxoanthracene-2-sulphonate;25797-81-3;247-269-2;PRO-396;CC1=CC(=CC(=C1C)S(=O)(=O)NCCO)NC2=CC(=C(C3=C2C(=O)C4=CC=CC=C4C3=O)N)S(=O)(=O)[O-].[Na+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1103;;;;1,5;0,716286225;151,0709666;-;0,993153497;;;;0,585786438;0,708849431;0,829002115;0,1;;10;100;7;4;3;3;1,5;2;0,5;55;0,405766098;;0,72
+Sodium 2,2,2-trifluoroethanolate;420-87-1;206-998-6;PRO-397;C(C(F)(F)F)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;52;;;;;0,705387879;32,09790245;-;0,43914506;;;;;0,710406009;0,255518837;0,1;;0;0;3;4;0;1;0,5;0,5;0;0;;;-
+sodium 2-methyl-2-({3-[(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)thio]propanoyl}amino)propane-1-sulfonate;62880-93-7;811-522-0;PRO-398;CC(C)(CS(=O)(=O)[O-])NC(=O)CCSCCC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F.[Na+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;7198;;;;;;;-;0,999720938;;;;;;;0,1;;10;100;7;4;3;1;1,5;0,5;0;55;0,328477318;;-
+Sodium 2-methyl-2-[(1-oxoallyl)amino]propanesulphonate;5165-97-9;225-948-4;PRO-399;CC(C)(CS(=O)(=O)[O-])NC(=O)C=C.[Na+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;33;;;;;0,832356014;29,55552137;-;0,264636236;;;;;0,691970792;0,229619585;0,1;;10000;100000;7;4;3;1;0,5;0,5;0;55000;0,635685735;;-
+Sodium 3-(allyloxy)-2-hydroxypropanesulphonate;52556-42-0;258-004-5;PRO-400;C=CCOCC(CS(=O)(=O)[O-])O.[Na+];NS00100057;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;34;;;;;0,899310119;12,47845697;-;0,274686182;;;;;0,681991718;0,063893273;0,1;;1000;1000;7;4;3;1;0,5;0,5;0;1000;0,446258503;;0,9
+Sodium 4-[[3-(acetylamino)phenyl]amino]-1-amino-9,10-dihydro-9,10-dioxoanthracene-2-sulphonate;70571-81-2;274-675-7;PRO-401;CC(=O)NC1=CC=CC(=C1)NC2=CC(=C(C3=C2C(=O)C4=CC=CC=C4C3=O)N)S(=O)(=O)O;NS00019623;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;751;;;;2,5;0,58182863;114,1610894;-;0,986875193;;;;0,414213562;0,727703371;0,750198345;0,1;;10;100;7;4;3;3;1,5;2;0,5;55;0,405766098;;0,58
+Sodium 6-amino-4-hydroxy-5-[[2-(trifluoromethyl)phenyl]azo]naphthalene-2-sulphonate;67786-14-5;267-090-3;PRO-402;Nc1ccc2cc(cc(O)c2c1N=Nc1ccccc1C(F)(F)F)S(=O)(=O)O;NS00020962;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;784;;;;;0,552759315;266,3619198;-;0,987794092;;;;;0,731677612;0,927442141;0,1;;0;10;7;4;3;1;1,5;2;0,5;5;0,232519933;;0,55
+Sodium bis[4-[(4,5-dihydro-3-methyl-5-oxo-1-phenyl-1H-pyrazol-4-yl)azo]-3-hydroxy-N,N-dimethylbenzene-1-sulphonamidato(2-)]chromate(1-);75214-69-6;278-137-2;PRO-403;CC1=C(C(=O)N(N1)C2=CC=CC=C2)N=NC3=C(C=C(C=C3)S(=O)(=O)N(C)C)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;3351;;;;;;;-;0,998969622;;;;;;;0,1;;1;10;7;4;3;3;1,5;0,5;0,5;5,5;0,244129745;;-
+Sodium N-chlorobenzenesulphonamide;127-52-6;204-847-9;PRO-404;C1=CC=C(C=C1)S(=O)(=O)[N-]Cl.[Na+];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;53;;;;;0,627601251;22,92154793;-;0,447180457;;;;;0,721371383;0,161784973;0,1;;10;1000;7;4;3;1;1,5;2;0;505;0,478645514;;0,63
+sodium trifluoromethanesulfinate;2926-29-6;678-523-4;PRO-405;C(F)(F)(F)S(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;87;;;;;;;-;0,65366582;;;;;;;0,1;;0;0;3;1;0;3;0,5;0,5;0;0;;;-
+STI571 F8;-;465-100-2;PRO-406;CC(C)(C)CC(C)(C)c1cc(n2nc3ccccc3n2)c(O)c(c1)C(C)(C)c1ccccc1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1035;;;;;;;"Aquatic Chronic 4
+";0,992372717;;;;;;;0;;0;10000000;3;1;3;3;0,5;0,5;0;5000000;0,583596395;;-
+Sulfadiazine;68-35-9;200-685-8;PRO-407;C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;185;;;;0,3;0,603826219;40,09234041;-;0,87268707;;;;0,764651037;0,72467158;0,334209881;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,6
+Sulfadimidine;57-68-1;200-346-4;PRO-408;Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;211;;;;0,7;0,577877167;60,59279641;-;0,895643885;;;;0,711173721;0,728245757;0,504201646;0,1;;0;0;3;1;0;1;0,5;0,5;0;0;;;0,58
+Sulisobenzone;4065-45-6;223-772-2;PRO-409;COc1cc(O)c(C(=O)c2ccccc2)cc1S(=O)(=O)O;NS00009581;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;2500;;;;2;0,577674254;30,10837764;-;0,998300918;;;;0,5;0,728273591;0,235271932;0,1;;10;1000;7;4;3;1;1,5;2;0,5;505;0,491581879;;0,58
+tert-butyl acetate;540-88-5;208-760-7;PRO-410;CC(=O)OC(C)(C)C;NS00005482;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;648;;;;0,8;0,528906624;19,88293684;-;0,983174003;;;;0,696730455;0,734911086;0,131458341;0,1;;10;1000;7;4;3;1;0,5;0,5;0;505;0,413963687;;0,53
+tert-butyl hydroperoxide;75-91-2;200-915-7;PRO-411;CC(C)(C)OO;NS00004543;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;31;;;;0,3;0,694470246;23,36398093;"Muta. 2
+";0,244366309;;;;0,764651037;0,711960389;0,166266225;0;;100000;1000000;7;4;3;1;0,5;0,5;0;550000;0,744529272;;0,69
+tert-butyl methyl ether;1634-04-4;216-653-1;PRO-412;CC(C)(C)OC;NS00008307;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;;;;0,610043678;23,56079564;"Flam. Liq. 2
+Skin Irrit. 2
+";;;;;;0,723810882;0,168263635;0;;1000000;10000000;7;4;3;1;1,5;2;0,5;5500000;1,013380212;;0,61
+Tetrachloroethylene;127-18-4;204-825-9;PRO-413;ClC(=C(Cl)Cl)Cl;NS00004674;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;2500;;;;2,1;0,341001048;82,69327799;"Carc. 2
+Aquatic Chronic 2
+";0,998300918;;;;0,482678255;0,759498212;0,633764426;0;;100000;1000000;7;4;3;1;1,5;0,5;0;550000;0,791062352;;0,34
+Tetrachlorophthalic anhydride;117-08-8;204-171-4;PRO-414;Clc1c(Cl)c(Cl)c2C(=O)OC(=O)c2c1Cl;NS00009457;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;293;;;;;0,305765121;180,101303;"Eye Dam. 1
+Resp. Sens. 1
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,937672088;;;;;0,763931143;0,867502193;1;;0;1000;7;4;0;1;0,5;0,5;0,5;500;0,348885;;0,31
+Tetraethylammonium heptadecafluorooctanesulphonate;56773-42-3;260-375-3;PRO-415;C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;NS00007176;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;;;2,6;0,106382275;7782,219054;-;;;;;0,397501059;0,787940517;0,999755782;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;0,11
+tetraethylazanium nonafluorobutane-1-sulfonate;25628-08-4;700-536-1;PRO-416;C(F)(F)(C(F)(F)C(F)(F)C(F)(F)F)S(=O)(=O)OC(C)[N+](CC)(CC)CC;-;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;;;;;;-;;;;;;;;0,1;;0;10;3;4;3;1;0,5;0,5;0;5;0,146854694;;-
+Tetrafluoroethylene;116-14-3;204-126-9;PRO-417;C(=C(F)F)(F)F;NS00011104;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;22;;;;0,7;0,658952222;16,1214018;"Carc. 1B
+";0,152496117;;;;0,711173721;0,71698266;0,095640172;0,5;;10000;100000;7;4;3;1;1,5;2;0,5;55000;0,75487681;;0,66
+Tetrahydromethylphthalic anhydride;11070-44-3;234-290-7;PRO-418;CC12CCCC=C1C(=O)OC2=O;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;42;;;;;0,512681873;21,4421592;-;0,352118545;;;;;0,737096227;0,14690781;0,1;;10000;100000;7;4;3;1;0,5;0,5;0;55000;0,635685735;;0,51
+Tetrasodium [3-[[8-[(4-amino-6-chloro-1,3,5-triazin-2-yl)amino]-1-hydroxy-3,6-disulpho-2-naphthyl]azo]-4-hydroxynaphthalene-1,5-disulphonato(6-)]cuprate(4-);14692-76-3;238-739-8;PRO-419;Nc1nc(Cl)nc(Nc2cc(cc3cc(c(N=Nc4c(O)c5c(cccc5c(c4)S(=O)(=O)O)S(=O)(=O)O)c(O)c23)S(=O)(=O)O)S(=O)(=O)O)n1;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;4303;;;;;;;-;0,999327791;;;;;;;0,1;;0;10;7;4;3;3;1,5;2;0,5;5;0,256995715;;-
+Tetrasodium 7-amino-4-hydroxy-3-[(2-methoxy-5-methyl-4-{[2-(sulfonatooxy)ethyl]sulfonyl}phenyl)diazenyl]-8-[(2-sulfonato-4-{[2-(sulfonatooxy)ethyl]sulfonyl}phenyl)diazenyl]naphthalene-2-sulfonate;503155-49-5;610-522-6;PRO-420;COc1cc(c(C)cc1N=Nc1c(O)c2ccc(N)c(N=Nc3ccc(cc3S(=O)(=O)O)S(=O)(=O)CCOS(=O)(=O)O)c2cc1S(=O)(=O)O)S(=O)(=O)CCOS(=O)(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2788;;;;1,3;;;-;0,998589446;;;;0,618975739;;;0,1;;0;10;7;4;3;1;0,5;0,5;0,5;5;0,201925205;;-
+"thiamethoxam (ISO); 3-(2-chloro-thiazol-5-ylmethyl)-5-methyl[1,3,5]oxadiazinan-4-ylidene-N-nitroamine";153719-23-4;428-650-4;PRO-421;CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl;NS00010175;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;97;;907;41;;;;"Repr. 2
+Acute Tox. 4
+Aquatic Acute 1
+Aquatic Chronic 1
+";0,69448927;;0,990460105;0,073848304;;;;1;;0;10000000;7;1;3;1;0,5;0,5;0;5000000;0,68970483;;-
+"thiourea; thiocarbamide";62-56-6;200-543-5;PRO-422;C(=S)(N)N;NS00002781;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;13;;;;;0,721301892;16,16233884;"Carc. 2
+Repr. 2
+Acute Tox. 4 *
+Aquatic Chronic 2
+";0,068209867;;;;;0,708131404;0,096015817;0,5;;10;1000;7;4;3;1;1,5;0,5;0;505;0,439836418;;0,72
+Trade name: 3M(TM) NOVEC(TM) ENGINEERED FLUID HFE-7000;-;484-450-7;PRO-423;COC(F)(F)C(F)(C(F)(F)F)C(F)(F)F;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;703;;;;;;;"Aquatic Chronic 4
+";0,985329369;;;;;;;0;;0;10000000;3;1;3;3;0,5;0,5;0;5000000;0,583596395;;-
+trans-dichloroethylene;156-60-5;205-860-2;PRO-424;C(=CCl)Cl;NS00079504;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;36;;;;;0,545723587;31,26359992;-;0,294575966;;;;;0,732633969;0,247048999;0,1;;10;1000;7;4;3;1;1,5;0,5;0,5;505;0,452772783;;0,55
+tributylamine;102-82-9;203-058-7;PRO-425;CCCCN(CCCC)CCCC;NS00000551;-;;;;;;;0,285039737;6,678929919;-;;;;;;0,766512036;0,022909256;0,1;;;;7;4;3;1;1,5;0,5;0,5;;;;0,29
+Trichloroacetic acid;76-03-9;200-927-2;PRO-426;OC(=O)C(Cl)(Cl)Cl;NS00009969;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;120;;0;0,683179651;43,35463366;"Skin Corr. 1A
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;0,765835392;;0,8;0,713562632;0,364595526;1;;10;1000;7;4;3;1;1,5;0,5;0;505;0,439836418;;0,68
+Trichloroethylene;79-01-6;201-167-4;PRO-427;ClC=C(Cl)Cl;NS00006134;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;2500;;;;2,1;0,482695563;50,84574278;"Carc. 1B
+Muta. 2
+STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+Aquatic Chronic 3
+";0,998300918;;;;0,482678255;0,741104146;0,429716858;0,5;;0;100000;7;4;3;1;1,5;0,5;0;50000;0,670629184;;0,48
+Triclosan;3380-34-5;222-182-2;PRO-428;Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl;NS00010282;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;;;;;2,4;0,208424739;122,6820615;"Skin Irrit. 2
+Eye Irrit. 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;0,431125928;0,775881582;0,772543737;1;;0;10;7;4;3;1;0,5;2;0;5;0,214163096;;0,21
+Triethyl phosphate;78-40-0;201-114-5;PRO-429;CCOP(=O)(OCC)OCC;NS00009400;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;20;;;;0,3;0,590655263;17,01653783;"Acute Tox. 4 *
+";0,132608401;;;;0,764651037;0,726489363;0,103934201;0;;10000;100000;7;4;3;1;1,5;2;0,5;55000;0,75487681;;0,59
+Trifluoroacetic acid;76-05-1;200-929-3;PRO-430;C(=O)(C(F)(F)F)O;NS00008877;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;53;;;;0,8;0,747749773;22,87241302;"Acute Tox. 4 *
+Skin Corr. 1A
+Aquatic Chronic 3
+";0,447180457;;;;0,696730455;0,70432806;0,161288108;0;;0;10000;7;4;0;1;1,5;0,5;0;5000;0,457044762;;0,75
+Trifluoroiodomethane;2314-97-8;219-014-5;PRO-431;C(F)(F)(F)I;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;101;;;;;0,544228191;66,29465516;"Muta. 2
+";0,708946378;;;;;0,732836957;0,542534178;0;;10;100;7;4;3;1;1,5;0,5;0,5;55;0,338138415;;0,54
+Trifluoromethanesulphonic acid;1493-13-6;216-087-5;PRO-432;C(F)(F)(F)S(=O)(=O)O;NS00004757;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;67;;;;0,2;0,717664638;37,3659679;-;0,547020956;;;;0,776895387;0,708652206;0,307976257;0,1;;0;1000;7;4;0;1;1,5;0,5;0;500;0,361806667;;-
+Trifluoromethanesulphonic anhydride;358-23-6;206-616-8;PRO-433;C(F)(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F;-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;731;;;;;0,292771686;261,5219406;-;0,986263893;;;;;0,765551491;0,925304113;0,1;;10;1000;7;4;3;1;1,5;0,5;0;505;0,439836418;;0,29
+tri-n-butyl-phosphate ;126-73-8;204-800-2;PRO-434;CCCCOP(=O)(OCCCC)OCCCC;NS00010255;-;;;;;;;0,29729847;4,267581251;"Carc. 2
+Acute Tox. 4 *
+Skin Irrit. 2
+";;;;;;0,764987855;0,010785093;0;;;;7;4;3;1;1,5;2;0,5;;;;0,3
+triphenyl phosphate ;115-86-6;204-112-2;PRO-435;C1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=CC=CC=C3;NS00010271;-;;;;;;;0,297776554;27,84825368;-;;;;;;0,764928273;0,212122792;0,1;;;;7;4;3;1;1,5;2;0,5;;;;0,3
+tris(2-butoxyethyl)phosphate;78-51-3;201-122-9;PRO-436;CCCCOCCOP(=O)(OCCOCCCC)OCCOCCCC;NS00010389;-;;;;;;;0,359868257;7,937562498;-;;;;;;0,757101321;0,030534313;0,1;;;;7;4;3;1;1,5;2;0,5;;;;0,36
+Tris(2-chloro-1-methylethyl) phosphate;13674-84-5;237-158-7;PRO-437;CC(CCl)OP(=O)(OC(C)CCl)OC(C)CCl;NS00009572;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;2500;;;;2,2;0,420770757;87,76287997;-;0,998300918;;;;0,465398039;0,749254137;0,657036829;0,1;;0;10;7;4;3;1;1,5;2;0,5;5;0,232519933;;0,42
+Tris(2-chloroethyl) phosphate;115-96-8;204-118-5;PRO-438;ClCCOP(=O)(OCCCl)OCCCl;NS00010387;REACH-C;PMT/vPvM substances registered under REACH that are already subject to existing EU chemical or water regulations;64;;;;;0,53028806;73,20117274;"Carc. 2
+Repr. 1B
+Acute Tox. 4 *
+Aquatic Chronic 2
+";0,527554388;;;;;0,734724499;0,584182064;1;;0;10;7;4;3;3;1,5;0,5;0,5;5;0,238638878;;0,53
+Tris[2-chloro-1-(chloromethyl)ethyl] phosphate;13674-87-8;237-159-2;PRO-439;C(C(CCl)OP(=O)(OC(CCl)CCl)OC(CCl)CCl)Cl;NS00010388;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;617;;;;2,2;0,326072595;377,5354188;"Carc. 2
+";0,981730035;;;;0,465398039;0,761383236;0,958685043;0;;1000;1000;7;4;3;1;0,5;0,5;0,5;1000;0,460204082;;0,33
+Trisodium 5-[[4-chloro-6-(ethylphenylamino)-1,3,5-triazin-2-yl]amino]-4-hydroxy-3-[(4-methyl-2-sulphonatophenyl)azo]naphthalene-2,7-disulphonate;73816-74-7;277-616-3;PRO-440;CCN(C1=CC=CC=C1)C2=NC(=NC(=N2)NC3=C4C(=CC(=C3)S(=O)(=O)O)C=C(C(=C4O)N=NC5=C(C=C(C=C5)C)S(=O)(=O)O)S(=O)(=O)O)Cl;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1393;;;;1,3;0,201211589;1067,074901;-;0,995395891;;;;0,618975739;0,77674979;0,99275765;0,1;;0;10;7;4;3;1;1,5;2;0,5;5;0,232519933;;0,2
+Trisodium 5-[[5-methyl-4-[(4-nitro-2-sulphonatophenyl)azo]-2-(3-sulphonatopropoxy)phenyl]azo]salicylate;74186-17-7;277-753-9;PRO-441;CC1=CC(=C(C=C1N=NC2=C(C=C(C=C2)[N+](=O)[O-])S(=O)(=O)O)OCCCS(=O)(=O)O)N=NC3=CC(=C(C=C3)O)C(=O)O;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1171;;;;;0,216601868;352,4116984;-;0,99381496;;;;;0,774894444;0,953762067;0,1;;0;10;7;4;3;3;0,5;0,5;0,5;5;0,226400987;;0,22
+Trisodium 7-[[4-chloro-6-[(3-sulphonatophenyl)amino]-1,3,5-triazin-2-yl]methylamino]-4-hydroxy-3-[(2-sulphonatophenyl)azo]naphthalene-2-sulphonate;70210-21-8;274-418-9;PRO-442;CN(C1=CC2=CC(=C(C(=C2C=C1)O)N=NC3=CC=CC=C3S(=O)(=O)O)S(=O)(=O)O)C4=NC(=NC(=N4)NC5=CC(=CC=C5)S(=O)(=O)O)Cl;-;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;1034;;;;;0,272897442;852,9672586;-;0,992360198;;;;;0,76801495;0,989415113;0,1;;0;10;7;4;3;3;1,5;2;0,5;5;0,256995715;;0,27
+Trisodium 8-hydroxypyrene-1,3,6-trisulphonate;6358-69-6;228-783-6;PRO-443;C1=CC2=C3C(=C(C=C2S(=O)(=O)O)S(=O)(=O)O)C=CC4=C(C=C(C1=C43)O)S(=O)(=O)O;NS00013521;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1701;;;;3;0,702542218;140,0854485;-;0,996723435;;;;0,333333333;0,710811634;0,809922755;0,1;;10;100;7;4;3;1;1,5;2;0,5;55;0,367121708;;0,7
+Vinyl chloride;75-01-4?;-;PRO-444;C=CCl;-;-;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Warfarin;81-81-2;201-377-6;PRO-445;CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O;NS00010884;REACH-B;REACH registered substances registered under REACH (or transformation products thereof) at tonnages < 10 tpa;;;150;;;0,444517713;39,26413171;-;;;0,82727113;;;0,746149063;0,326317205;0,1;;0;0;3;1;0;3;0,5;0,5;0;0;;;0,44
+Zinc bis[O-(2-ethylhexyl)] bis[O-(isobutyl)] bis(dithiophosphate);26566-95-0;247-810-2;PRO-446;CCCCC(CC)COP(=S)(OCC(C)C)[S-].CCCCC(CC)COP(=S)(OCC(C)C)[S-].[Zn+2];-;REACH-A;PMT/vPvM substance  registered under REACH (or transformation products thereof) at tonnages > 10 tpa;1484;;;;1,4;0,018591989;56,32930827;-;0,995866019;;;;0,602498941;0,797930109;0,473045969;0,1;;10;1000;7;4;3;1;1,5;2;0;505;0,478645514;;-
+Tetrabutylammonium;10549-76-5;;PRO-447;;;;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Pyridoxine;65-23-6;;PRO-448;;;;;;;;;;0,797828609;18,31878542;-;;;;;;0,697048383;0,116274356;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Saccharin;81-07-2;;PRO-449;;;;;;;;;;0,609020859;23,06958688;-;;;;;;0,723952588;0,163282981;0,1;;;;7;4;3;1;1,5;2;0;;;;0,61
+Caffeine;58-08-2;;PRO-450;;;;;;;;;;0,669724838;24,19426005;"Acute Tox. 4 *
+";;;;;;0,715465013;0,17470703;0;;;;7;4;3;1;1,5;2;0;;;;0,67
+4-Toluenesulfonic acid;104-15-4;;PRO-451;;;;;;;;;;0,727652361;19,29448178;"STOT SE 3
+Skin Irrit. 2
+Eye Irrit. 2
+";;;;;;0,707220799;0,125704553;0;;;;7;4;3;1;1,5;0,5;0;;;;-
+Bis(2,4,4-trimethylpentyl)phosphinic acid;83411-71-6;;PRO-452;;;;;;;;;;0,201367603;83,81391501;-;;;;;;0,776731036;0,639088879;0,1;;;;7;4;3;1;0,5;0,5;0;;;;0,2
+Tebuconazole;107534-96-3;;PRO-453;;;;;;;;;;0,392019439;156,4395324;"Repr. 2
+Acute Tox. 4
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;;0,752979596;0,837299045;1;;;;3;1;3;3;0,5;0,5;0;;;;0,39
+"2-Hydroxybenzothiazole; Benzothiazolone";934-34-9;;PRO-454;;;;;;;;;;0,424068484;18,00347279;-;;;;;;0,748824451;0,11325904;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,42
+Metolachlor;51218-45-2;;PRO-455;;;;;;;;;;0,432588513;75,56626632;-;;;;;;0,747712051;0,597323449;0,1;;;;3;1;3;3;0,5;0,5;0;;;;0,43
+Tetrapropylammonium;13010-31-6;;PRO-456;;;;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Propiconazole;60207-90-1;;PRO-457;;;;;;;;;;0,352952118;160,4576991;"Repr. 1B
+Acute Tox. 4
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;;0,757981828;0,843119186;1;;;;7;1;3;1;0,5;0,5;0;;;;0,35
+N-Ethyl-4-menthane-3-carboxamide;39711-79-0;;PRO-458;;;;;;;;;;0,332271356;28,95627287;-;;;;;;0,760601749;0,223483966;0,1;;;;7;4;3;1;1,5;2;0,5;;;;0,33
+Benzyl-triethylammonium;16652-03-2;;PRO-459;;;;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Naphthalene-2-sulfonic acid;120-18-3;;PRO-460;;;;;;;;;;0,623281987;19,47600356;-;;;;;;0,721972739;0,127474427;0,1;;;;7;4;3;1;1,5;2;0,5;;;;-
+Fludioxonil;131341-86-1;;PRO-461;;;;;;;;;;0,234352519;68,0372478;"Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;;0,772740996;0,553520167;1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Bentazone;25057-89-0;;PRO-462;;;;;;;;;;0,481259152;29,50943111;"Repr. 2
+Acute Tox. 4
+Eye Irrit. 2
+Skin Sens. 1";;;;;;0,741295134;0,229147976;0,5;;;;3;1;3;3;0,5;0,5;0;;;;0,48
+1-(o-Tolyl)-biguanide;93-69-6;;PRO-463;;;;;;;;;;0,740983844;27,6425736;-;;;;;;0,705303771;0,210012544;0,1;;;;7;4;3;1;0,5;0,5;0,5;;;;0,74
+Tripropyl phosphate;513-08-6;;PRO-464;;;;;;;;;;0,489119307;20,40159073;-;;;;;;0,740248915;0,136566642;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Phthalic acid;88-99-3;;PRO-465;;;;;;;;;;0,730759331;15,21387808;-;;;;;;0,70677468;0,087409533;0,1;;;;7;4;3;1;0,5;0,5;0;;;;-
+Tetraethylammonium;66-40-0;;PRO-466;;;;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Fluxapyroxad;907204-31-3;;PRO-467;;;;;;;;;;;;"Lact.
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;;;;1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Pyrimethanil;53112-28-0;;PRO-468;;;;;;;;;;0,356633276;41,27482174;"Aquatic Chronic 2
+";;;;;;0,757513443;0,345356338;0;;;;3;1;3;3;0,5;0,5;0;;;;0,36
+Terbuthylazine;5915-41-3;;PRO-469;;;;;;;;;;0,415913252;174,5325267;"Acute Tox. 4
+STOT RE 2
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;;0,749886165;0,861207922;1;;;;3;1;3;3;0,5;0,5;0;;;;0,42
+Brilliant Blue FCF;3844-45-9;;PRO-470;;;;;;;;;;0,501074376;190,732875;-;;;;;;0,73865239;0,878371675;0,1;;;;7;4;3;1;1,5;2;0,5;;;;-
+Dibenzylamine;103-49-1;;PRO-471;;;;;;;;;;0,672951815;22,59743416;-;;;;;;0,715009444;0,158510622;0,1;;;;3;4;3;1;0,5;0,5;0;;;;0,67
+Mecoprop;7085-19-0;;PRO-472;;;;;;;;;;0,503171106;25,16180323;-;;;;;;0,738371732;0,18458379;0,1;;;;3;4;3;1;0,5;0,5;0;;;;-
+Prometryn;7287-19-6;;PRO-473;;;;;;;;;;0,388259264;81,09570634;-;;;;;;0,753464062;0,625989772;0,1;;;;7;1;3;3;0,5;0,5;0;;;;0,39
+Cyclamate Cyclamic acid;100-88-9;;PRO-474;;;;;;;;;;0,817321827;22,68134871;-;;;;;;0,694187524;0,159357637;0,1;;;;3;4;3;1;0,5;0,5;0;;;;0,82
+Pethoxamid;106700-29-2;;PRO-475;;;;;;;;;;;;"Acute Tox. 4 *
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;;;;1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Triphenylphosphine oxide;791-28-6;;PRO-476;;;;;;;;;;0,454345149;30,56406128;-;;;;;;0,744856662;0,239923482;0,1;;;;7;4;3;1;0,5;0,5;0,5;;;;0,45
+4-Hydroxybenzoic acid;99-96-7;;PRO-477;;;;;;;;;;0,635745091;14,33784881;-;;;;;;0,720235375;0,079653384;0,1;;;;3;4;3;1;0,5;0,5;0;;;;0,64
+Metolachlor ESA;171118-09-5;;PRO-478;;;;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+trans-2-Hexenoic acid;13419-69-7;;PRO-479;;;;;;;;;;0,639428871;4,700238725;-;;;;;;0,719720585;0,012696315;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Tributylphosphine oxide;814-29-9;;PRO-480;;;;;;;;;;0,326926154;4,683762809;-;;;;;;0,761275731;0,012621288;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+3-Carboxypropyl)triphenylphosphonium;151310-36-0;;PRO-481;;;;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Chloridazon;1698-60-8;;PRO-482;;;;;;;;;;0,58435614;34,8725839;"Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;;0,727356084;0,283400632;1;;;;3;1;3;3;0,5;0,5;0;;;;0,58
+Fluopyram;658066-35-4;;PRO-483;;;;;;;;;;;;"Aquatic Chronic 2
+";;;;;;;;0;;;;3;1;3;3;0,5;0,5;0;;;;-
+Desamino-metamitron;36993-94-9;;PRO-484;;;;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Methabenzthiazuron;18691-97-9;;PRO-485;;;;;;;;;;0,442789745;27,18798237;"Aquatic Acute 1
+Aquatic Chronic 1
+";;;;;;0,74637586;0,20534819;1;;;;3;1;3;3;0,5;0,5;0;;;;0,44
+1,8-Diazabicyclo [5.4.0]undec-7-ene (polycat dbu);6674-22-2;;PRO-486;;;;;;;;;;0,56494285;20,19173729;-;;;;;;0,730016407;0,134495793;0,1;;;;7;4;3;1;1,5;0,5;0;;;;0,56
+3,5-di-tert-Butyl-4-hydroxybenzoic acid;1421-49-4;;PRO-487;;;;;;;;;;0,375449396;53,2102335;-;;;;;;0,755109698;0,448854081;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+6-Methoxyquinoline;5263-87-6;;PRO-488;;;;;;;;;;0,465760216;23,30025717;-;;;;;;0,743350052;0,165620015;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Diphenylphosphate;838-85-7;;PRO-489;;;;;;;;;;0,449606593;28,26421644;-;;;;;;0,745480366;0,216389647;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+Dodecylbenzenesulfonic acid;27176-87-0;;PRO-490;;;;;;;;;;0,252067233;20,96647;-;;;;;;0,77057745;0,14216609;0,1;;;;7;4;3;1;1,5;2;0,5;;;;-
+m-Xylene-4-sulfonic acid ( 2,4-DIMETHYLBENZENESULFONIC ACID);88-61-9;;PRO-491;;;;;;;;;;0,683929316;23,72221697;-;;;;;;0,713456413;0,169903528;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+3:3 fluorotelomer carboxylate;356-02-5;;PRO-492;;;;;;;;;;;;-;;;;;;;;0,1;;;;3;1;3;3;0,5;0,5;0;;;;-
+benzotriazole and derivatives;-;-;Pro-f-01;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+Chlorinated hydrocarbons (sum) ;-;-;Pro-f-02;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+chlorinated solvents;-;-;Pro-f-03;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+cis+trans 1,2-Dichloroetylene (sum) ;-;-;Pro-f-04;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+Fatty acid-based ionic liquids;-;-;Pro-f-05;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+Fluorinated or mixed halogenated organic by-products;-;-;Pro-f-06;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+heavy metals;-;-;Pro-f-07;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+organophosphates & phosphonium compounds;-;-;Pro-f-08;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+PAH 16EPA ;-;-;Pro-f-09;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+Polychlorinated biphenyls (PCB);-;-;Pro-f-10;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+sulfonated aliphates & benzoic acids;-;-;Pro-f-11;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+suspected target screening;-;-;Pro-f-12;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-
+UV stabilizers;-;-;Pro-f-13;-;-;-;;;;;;;;;"Aquatic Chronic 4
+";;;;;;;;0;;;;;;;;;;;;;;-

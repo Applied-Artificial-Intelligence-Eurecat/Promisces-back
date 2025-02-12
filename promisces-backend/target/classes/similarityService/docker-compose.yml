@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  promiscessimilarity:
+    container_name: promiscessimilarity
+    build: .
+    ports:
+      - "5000:5000"
+    networks:
+      promisces-backend_default:
+
+networks:
+  promisces-backend_default:
+    external: true
